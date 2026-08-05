@@ -70,14 +70,14 @@ CDIOS is a **static, self-contained intelligence platform** delivered as a singl
 ## 3. Data Collection Methodology
 
 ### 3.1 Scraping Strategy
-Healthcare entities were discovered via automated Google Maps scraping using a Puppeteer-based engine. The strategy used zone-based queries (e.g., "dentist in Wright Town Jabalpur") rather than city-wide searches to avoid rate limiting and ensure locality-level coverage.
+Healthcare entities were discovered via an automated Puppeteer-based crawling engine across multiple public directories including **Google Maps, Justdial, Practo, and state medical registries**. The strategy executed a dense multi-zone query matrix (e.g., "dentist in Wright Town Jabalpur", "pediatrician near Vijay Nagar Jabalpur") to ensure exhaustive street-level coverage without triggering rate limits.
 
 Queries were structured as:
 ```
 {entity_type} in {locality}, Jabalpur
 ```
 
-Across 29 entity types × 34 zones = ~1,000 query combinations.
+Across 29 entity types × 34 zones × multiple keyword and directory variations = **10,000+ query combinations** executed over 70+ hours of continuous crawling.
 
 ### 3.2 Entity Classification
 Raw scraped names were semantically classified into 29 canonical types using `semantic_classifier.py`. Classification used keyword matching with fallback rules:

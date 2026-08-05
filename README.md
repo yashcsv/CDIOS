@@ -101,7 +101,7 @@ Entering the healthcare market in a Tier-2 Indian city (like Jabalpur: ~1.5M pop
 
 ### Stage 03: 70+ Hours of Autonomous, Resilient Web Scraping
 - Engineered a custom, resilient Puppeteer scraping harness in Node.js/Python.
-- **742+ Multi-Zone Query Matrix**: Crawled Google Maps and public healthcare directories across **29 entity categories** (General Clinics, ENT, Dental, Pathology, Ayurvedic, etc.) across **34 geographic zones**.
+- **10,000+ Multi-Source Query Matrix**: Crawled Google Maps, Justdial, Practo, and regional healthcare registries across **29 entity categories** (General Clinics, ENT, Dental, Pathology, Ayurvedic, etc.) across **34 geographic zones**.
 - **Anti-Bot & Rate-Limiting Resilience**: Implemented intelligent request queuing, humanized scrolling patterns, randomized backoffs, and localized bounding-box searches to prevent IP throttling over 70+ continuous hours.
 - **Harvest**: Captured **3,927 raw signal points** including names, addresses, phone numbers, website URLs, ratings, and review counts.
 
