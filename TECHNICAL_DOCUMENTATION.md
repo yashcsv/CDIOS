@@ -40,25 +40,30 @@ CDIOS is a **static, self-contained intelligence platform** delivered as a singl
 ### Primary Artifact
 | File | Role |
 |------|------|
-| `index.html` | Complete dashboard — 3,674 lines, ~230KB |
+| `index.html` | Complete single-file intelligence dashboard — 3,675 lines, ~233KB |
 
-### Data Layer
-| File | Role |
-|------|------|
-| `data-dashboard/Jabalpur_Healthcare_Golden_Records_V3.csv` | Source of truth — 3,694 healthcare entity records |
-| `data-dashboard/gr_intelligence.js` | Pre-computed intelligence object (`window.GR_INTELLIGENCE`) |
-| `data-dashboard/geo_intelligence.js` | Geographic data for Leaflet map (`window.GEO_INTELLIGENCE`) |
-| `data-dashboard/Jabalpur_Locality_Intelligence.csv` | Zone-level locality data |
-| `data-dashboard/geographic_analysis.geojson` | GeoJSON boundaries for map |
-| `data-dashboard/CLINICOS FRONTIER MARKET.md` | Founder-grade strategic analysis document |
-| `data-dashboard/CLINICOS STATISTICAL INTELLIGENCE.md` | Statistical summary of the dataset |
+### Data Layer & Asset Directory
+| File | Role & Usage Description |
+|------|--------------------------|
+| `data-dashboard/Jabalpur_Healthcare_Golden_Records_V3.csv` | **Single Source of Truth (SSOT)**: 3,694 verified healthcare entities, geocoded and deduplicated from 3,927 raw crawl points. Processed by `compute_intelligence.py`. |
+| `data-dashboard/gr_intelligence.js` | **Pre-Computed Runtime Object (`window.GR_INTELLIGENCE`)**: Global data payload containing pre-computed summary metrics, ICP breakdown tables, commercial waterfall funnel numbers, and technology adoption scores. |
+| `data-dashboard/geo_intelligence.js` | **GIS Layer (`window.GEO_INTELLIGENCE`)**: Zone coordinates, locality rankings, and entity clusters used to render Leaflet.js interactive maps in Module 05. |
+| `data-dashboard/geographic_analysis.geojson` | **Geospatial Vector Asset**: Boundary polygon GeoJSON for Jabalpur's 34 zones used for spatial clustering and identifying healthcare deserts. |
+| `data-dashboard/Jabalpur_Locality_Intelligence.csv` | **Zone Aggregations**: 1,321 locality records summarizing healthcare entities, hospitals, clinics, labs, and pharmacies per ward. |
+| `data-dashboard/Jabalpur_Healthcare_Doctors.csv` | **Doctor Registry Schema**: Structured practitioner-level data mapping physicians and specialists to clinics with fee and qualification schemas. |
+| `data-dashboard/CLINICOS FRONTIER MARKET.md` | **Strategic Launch Dossier**: 990-line founder-grade document outlining the operational wedge (Queue Management), launch cluster sequencing, and 36-month ARR models. |
+| `data-dashboard/CLINICOS STATISTICAL INTELLIGENCE.md` | **Bayesian Mathematical Engine**: Mathematical and probability modeling documenting the 67% overall success probability model, Bayesian conversion funnel, and price elasticity curve. |
+| `data-dashboard/Jabalpur_Strategic_Intelligence_Report.md` | **Executive Briefing & Audit**: 25-section executive report validating the 94% Data Trust Score, audit methodology, and GTM field survey workflows. |
+| `data-dashboard/Jabalpur_Healthcare_Dashboard.xlsx` | **Offline BI & Field Sales Workbook**: Multi-tab Excel spreadsheet with pivot tables and offline target lead sheets for ground surveyors. |
+| `data-dashboard/Scraping_Quality_Report.xlsx` | **QA Audit Report**: Data quality evaluation tracking phone completeness, deduplication efficacy, and geocoding precision across crawl runs. |
+| `Jabalpur_Master_Knowledge_Base.md` | **Master Engineering Knowledge Base**: Monolithic 2,194-line engineering reference containing all SQLite table schemas, entity distributions, and pipeline lineage. |
 
 ### Intelligence Pipeline
 | File | Role |
 |------|------|
-| `compute_intelligence.py` | Python pipeline: CSV → JS intelligence objects |
-| `enterprise_geo_pipeline.py` | Geographic enrichment pipeline |
-| `semantic_classifier.py` | Entity type classification logic |
+| `compute_intelligence.py` | Python pipeline: CSV → JS intelligence objects (`gr_intelligence.js`) |
+| `enterprise_geo_pipeline.py` | Geographic enrichment pipeline → `geo_intelligence.js` |
+| `semantic_classifier.py` | Semantic keyword matcher for 29 canonical entity types |
 
 ---
 
