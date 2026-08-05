@@ -1,0 +1,41 @@
+# CDIOS — .gitignore
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Raw scraped data & dev artifacts
+scrape-data/
+check.js
+temp.js
+extracted.js
+mock.js
+test_parse.js
+screenshot.js
+
+# Prompt specifications & feature requirement notes (internal)
+prompt-part-*.md
+base_master_prompt_v2.md
+Doctor_features.txt
+Receptionist_features.txt
+Jabalpur_Master_Knowledge_Base.md
+
+# Patch & dev scripts
+patch_*.py
+update_*.py
+
+# Local media & binaries
+images/
+screenshots/
+*.xlsx
+*.pdf
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

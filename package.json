@@ -1,0 +1,19 @@
+{
+  "name": "cdios",
+  "version": "3.0.0",
+  "description": "ClinicOS Decision Intelligence Operating System — Tier-2 Healthcare Market Intelligence Command Center",
+  "scripts": {
+    "start": "python3 -m http.server 5500",
+    "compute": "python3 compute_intelligence.py"
+  },
+  "keywords": [
+    "healthcare",
+    "decision-intelligence",
+    "market-research",
+    "gtm",
+    "dashboard",
+    "saas"
+  ],
+  "author": "Yash Thakur",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,1321 @@
+Locality,Total Entities,Hospitals,Clinics,Labs,Pharmacies,Doctors,Trust Status
+Wright Town,133,20,91,6,2,0,VERIFIED
+Napier Town,96,8,75,5,3,0,VERIFIED
+Home Science College Rd,46,6,33,4,1,0,VERIFIED
+Vijay Nagar,46,4,33,3,1,0,VERIFIED
+South Civil Lines,42,7,28,4,1,0,VERIFIED
+Main Road,42,2,29,6,2,0,VERIFIED
+Madan Mahal Railway Station Rd,41,3,24,5,2,0,VERIFIED
+Mandla - Jabalpur Rd,40,2,24,6,5,0,VERIFIED
+MR-4 Rd,35,2,22,3,3,0,VERIFIED
+Gole Bazar,33,7,25,0,0,0,VERIFIED
+Russel Chowk,32,5,18,6,1,0,VERIFIED
+Narmada Rd,31,1,25,1,2,0,VERIFIED
+Ukhri Rd,30,3,18,1,0,0,VERIFIED
+Nagpur Rd,30,5,17,2,2,0,VERIFIED
+Marhatal,29,3,18,3,1,0,VERIFIED
+Ghamapur,29,2,18,4,3,0,VERIFIED
+Unknown,28,3,24,0,0,0,VERIFIED
+Gwarighat Main Rd,27,0,21,3,0,0,VERIFIED
+Main Rd,26,2,13,3,3,0,VERIFIED
+Road,24,2,13,3,2,0,VERIFIED
+Ahinsa Chowk,23,2,17,2,1,0,VERIFIED
+Sanjeevani Nagar,23,0,17,2,2,0,VERIFIED
+Garha Rd,22,2,17,2,1,0,VERIFIED
+Chowk,22,3,13,3,3,0,VERIFIED
+Karmeta,21,2,14,1,3,0,VERIFIED
+Madan Mahal,20,1,17,1,0,0,VERIFIED
+Sneh Nagar Rd,19,1,16,0,0,0,VERIFIED
+Gorakhpur,18,0,14,3,0,0,VERIFIED
+Amkhera Rd,18,0,11,1,3,0,VERIFIED
+Dhanvantari Nagar,18,0,13,2,1,0,VERIFIED
+Katangi Rd,18,4,10,2,1,0,VERIFIED
+Sadar Bazar,17,0,13,0,3,0,VERIFIED
+road,17,2,9,0,2,0,VERIFIED
+Jabalpur,17,2,13,0,0,0,VERIFIED
+New Shastri Nagar,16,1,11,1,3,0,VERIFIED
+Garha,16,0,14,0,2,0,VERIFIED
+Prestige Town,15,1,12,1,1,0,VERIFIED
+Ekta Chowk,15,2,10,1,1,0,VERIFIED
+Patan Rd,15,5,8,0,2,0,VERIFIED
+Doctors Colony,15,3,8,2,0,0,VERIFIED
+Unnamed Road,14,1,12,0,0,0,VERIFIED
+Bilhari,14,1,8,1,2,0,VERIFIED
+Labour Chowk,14,1,6,1,6,0,VERIFIED
+Anand Nagar,14,0,9,2,3,0,VERIFIED
+Skin Hair and Cosmetic Clinic Dr Kuldeep Bhardwaj MD,14,0,14,0,0,0,VERIFIED
+Adhartal,14,1,9,1,2,0,VERIFIED
+Prem Mandir Rd,13,1,12,0,0,0,VERIFIED
+Ghamapur Rd,13,1,10,0,1,0,VERIFIED
+Gorakhpur Main Rd,13,0,8,1,2,0,VERIFIED
+Cantt,12,4,6,0,0,0,VERIFIED
+Gohalpur,12,0,11,0,1,0,VERIFIED
+Sadar Main Rd,12,0,10,0,1,0,VERIFIED
+Medical Garha,12,2,9,1,0,0,VERIFIED
+Ranital Chowk,11,0,6,1,3,0,VERIFIED
+Narmada - Gwarighat Rd,11,0,8,1,2,0,VERIFIED
+Gwarighat Rd,11,0,10,0,0,0,VERIFIED
+Gol Bazar Rd,11,1,8,1,0,0,VERIFIED
+Malaviya Chowk,11,1,8,1,1,0,VERIFIED
+Nove Adaresh Colony,11,2,9,0,0,0,VERIFIED
+Char Khamba Rd,11,1,6,0,2,0,VERIFIED
+Bengali Colony,11,0,9,1,0,0,VERIFIED
+KanchGhar,10,0,8,2,0,0,VERIFIED
+Jabalpur Hospital to Shastri Bridge Rd,10,5,4,1,0,0,VERIFIED
+Shanti Nagar,10,0,8,1,0,0,VERIFIED
+Hanumantal Ward,10,0,7,0,0,0,VERIFIED
+Premnagar,10,0,7,0,0,0,VERIFIED
+Station Rd,9,1,3,1,1,0,VERIFIED
+Gupteshwar Rd,9,0,5,2,0,0,VERIFIED
+Trimurti Nagar,9,0,6,0,2,0,VERIFIED
+Tagore Railway Colony,9,1,8,0,0,0,VERIFIED
+Gwarighat,9,1,6,0,1,0,VERIFIED
+chowk,9,0,8,0,0,0,VERIFIED
+Bhavartal Garden Rd,9,2,7,0,0,0,VERIFIED
+Sadar,9,2,5,0,1,0,VERIFIED
+Sarvodaya Nagar,9,0,6,1,2,0,VERIFIED
+Gulaua Chowk,9,0,8,1,0,0,VERIFIED
+Christian Colony,9,1,6,0,1,0,VERIFIED
+Shanti Nagar Rd,9,0,8,0,1,0,VERIFIED
+Shiv Nagar,9,1,5,0,1,0,VERIFIED
+Panagar,9,1,7,0,0,0,VERIFIED
+Dr Barat Rd,8,0,7,0,0,0,VERIFIED
+Bhim Nagar,8,0,7,0,1,0,VERIFIED
+Main road,8,1,3,0,2,0,VERIFIED
+Shakti Nagar,8,1,5,1,0,0,VERIFIED
+Ratan Nagar,8,0,6,1,0,0,VERIFIED
+Transport Nagar,8,4,3,0,1,0,VERIFIED
+Shastri Nagar,8,0,8,0,0,0,VERIFIED
+Kachnar City Rd,8,0,7,0,0,0,VERIFIED
+Uprainganj,8,0,8,0,0,0,VERIFIED
+Jai Prakash Nagar,8,0,7,1,0,0,VERIFIED
+Govindh Bhavan Colony,7,0,7,0,0,0,VERIFIED
+Awadhpuri Colony,7,1,4,0,1,0,VERIFIED
+Rampur Chowk,7,2,5,0,0,0,VERIFIED
+Ravindra Nagar,7,0,4,1,0,0,VERIFIED
+Golbazar,7,0,6,0,0,0,VERIFIED
+Ganjipura,7,0,6,1,0,0,VERIFIED
+Jai Nagar Rd,7,0,5,0,1,0,VERIFIED
+Tilwara Rd,7,1,4,1,0,0,VERIFIED
+Ansar Nagar,7,0,5,1,1,0,VERIFIED
+Dixitpura Rd,7,0,7,0,0,0,VERIFIED
+Rajul Township,7,0,5,0,0,0,VERIFIED
+MP Housing Board Colony,7,1,5,0,1,0,VERIFIED
+Janki Nagar,7,0,4,0,0,0,VERIFIED
+Azad Nagar,7,1,5,0,0,0,VERIFIED
+Railway Station Rd,7,1,5,0,0,0,VERIFIED
+Yashwar Nagar,7,0,7,0,0,0,VERIFIED
+Ranjhi - Bada Patthar Rd,7,0,7,0,0,0,VERIFIED
+Kamla Nehru Nagar,7,1,4,1,1,0,VERIFIED
+main road,7,0,5,2,0,0,VERIFIED
+Garha Bazar Rd,7,0,7,0,0,0,VERIFIED
+Subhash Nagar,7,0,5,1,0,0,VERIFIED
+Tripuri Chowk,7,0,3,2,1,0,VERIFIED
+Captainganj,6,0,5,0,1,0,VERIFIED
+4th Bridge Rd,6,0,6,0,0,0,VERIFIED
+Shahi Naka Rd,6,0,5,0,1,0,VERIFIED
+Ashok Nagar,6,1,2,1,1,0,VERIFIED
+Ghadi Chowk,6,0,5,0,0,0,VERIFIED
+Ram Nagar,6,1,5,0,0,0,VERIFIED
+BT Rd,6,0,5,1,0,0,VERIFIED
+Mastana Chowk Rd,6,0,5,0,1,0,VERIFIED
+Milloniganj,6,0,6,0,0,0,VERIFIED
+Ranjhi Mohaniya Rd,6,0,4,1,1,0,VERIFIED
+Dr Kuldeep Bhardwaj Snhclinics,6,0,6,0,0,0,VERIFIED
+SkinHairandCosmeticClinicDrKuldeepBhardwajMD - 2225/2,6,0,6,0,0,0,VERIFIED
+Vijay Nagar Rd,6,0,5,0,0,0,VERIFIED
+Gohalpur Rd,6,0,4,1,0,0,VERIFIED
+Tilhari,6,0,4,1,1,0,VERIFIED
+Nav Nivesh Colony,6,1,5,0,0,0,VERIFIED
+Gau Mata Chowk,5,1,2,1,0,0,VERIFIED
+Suvidha Market,5,0,4,0,0,0,VERIFIED
+Kripal Chowk Rd,5,0,3,0,1,0,VERIFIED
+Stadium Market,5,0,2,1,0,0,VERIFIED
+New Ram Nagar,5,0,5,0,0,0,VERIFIED
+Lalmati,5,0,4,0,0,0,VERIFIED
+Ravindra Nagar Rd,5,1,3,0,1,0,VERIFIED
+Vikas Nagar,5,0,5,0,0,0,VERIFIED
+Rameshwaram Colony,5,0,5,0,0,0,VERIFIED
+JDA Colony,5,0,4,0,0,0,VERIFIED
+Raddi Chowk,5,2,1,0,1,0,VERIFIED
+Ratan Colony,5,0,5,0,0,0,VERIFIED
+Gorakhpur Rd,5,0,5,0,0,0,VERIFIED
+Mohan Vihar Colony,5,2,3,0,0,0,VERIFIED
+Ganga Nagar,5,0,4,1,0,0,VERIFIED
+Kalimath Rd,5,0,5,0,0,0,VERIFIED
+Raddi Chowki,5,1,3,1,0,0,VERIFIED
+near Bhavartal Garden Road,5,1,3,1,0,0,VERIFIED
+Dr.Kuldeep Bhardwaj's Skin Hair & Cosmetic Clinic,5,0,5,0,0,0,VERIFIED
+Aaga Chowk,5,0,4,0,1,0,VERIFIED
+Green City Rd,5,1,4,0,0,0,VERIFIED
+Ranital Link Road,5,0,1,1,1,0,VERIFIED
+Yadav Colony,5,0,3,1,0,0,VERIFIED
+Central Ordinance Depot Area,5,0,4,0,1,0,VERIFIED
+Mandla Road,5,0,5,0,0,0,VERIFIED
+Nehru Nagar,5,0,1,1,1,0,VERIFIED
+Bajrang Nagar,5,1,3,0,1,0,VERIFIED
+BeoharBagh,4,1,2,0,0,0,VERIFIED
+Nagar Nigam Rd,4,1,2,0,1,0,VERIFIED
+Rampur,4,0,4,0,0,0,VERIFIED
+Mahanadda Rd,4,0,4,0,0,0,VERIFIED
+Krishna Hotel Road,4,0,4,0,0,0,VERIFIED
+Shatabdipuram Phase 1,4,1,3,0,0,0,VERIFIED
+Cherital,4,0,4,0,0,0,VERIFIED
+Kanchan Vihar,4,1,3,0,0,0,VERIFIED
+Fuhara Rd,4,1,3,0,0,0,VERIFIED
+Station Road,4,0,3,0,1,0,VERIFIED
+Ghamapur Chowk,4,0,2,0,1,0,VERIFIED
+Suji Mohalla,4,0,1,1,1,0,VERIFIED
+Dhanwantary Nagar Main Rd,4,1,3,0,0,0,VERIFIED
+Naya Mohalla,4,1,3,0,0,0,VERIFIED
+durga Colony,4,0,3,0,0,0,VERIFIED
+Ranjhi,4,0,3,1,0,0,VERIFIED
+Jasuja City,4,0,2,0,0,0,VERIFIED
+Sneh Nagar,4,0,4,0,0,0,VERIFIED
+Hathital,4,0,4,0,0,0,VERIFIED
+Ganjipura Rd,4,2,2,0,0,0,VERIFIED
+Mansarovar Colony,4,0,4,0,0,0,VERIFIED
+Sanjay Nagar,4,0,2,1,0,0,VERIFIED
+Andherdeo,4,1,3,0,0,0,VERIFIED
+Anjani Chhaya Sanjeevani Nagar,4,0,3,0,1,0,VERIFIED
+Alok Nagar,4,0,2,1,1,0,VERIFIED
+Sanjeevni Nagar,4,1,1,1,0,0,VERIFIED
+Raksha Karmachari Colony,4,0,3,1,0,0,VERIFIED
+Ganga Sagar Rd,4,0,2,1,1,0,VERIFIED
+Ima Hall Road,3,1,2,0,0,0,VERIFIED
+Sneh Nagar Chowk,3,1,2,0,0,0,VERIFIED
+Garha Purwa Road,3,0,2,1,0,0,VERIFIED
+Adarsh Nagar,3,1,2,0,0,0,VERIFIED
+Hardol Mandir Rd,3,1,2,0,0,0,VERIFIED
+Shakti Bhawan Rd,3,0,2,1,0,0,VERIFIED
+Ghamapur chowk,3,0,3,0,0,0,VERIFIED
+Ashok Vihar,3,0,2,0,0,0,VERIFIED
+State Bank Colony,3,0,3,0,0,0,VERIFIED
+LordGanj,3,0,3,0,0,0,VERIFIED
+Garha Fatak Rd,3,0,1,1,1,0,VERIFIED
+Jawahar Nagar,3,0,2,0,1,0,VERIFIED
+Patel Mohalla,3,0,3,0,0,0,VERIFIED
+Dhanwantri Nagar,3,0,3,0,0,0,VERIFIED
+Kachnar Rd,3,0,2,0,0,0,VERIFIED
+near Ghadi Chowk,3,0,3,0,0,0,VERIFIED
+Bajnamath Rd,3,0,3,0,0,0,VERIFIED
+Manmohan Nagar,3,1,2,0,0,0,VERIFIED
+Bharipur Rd,3,1,2,0,0,0,VERIFIED
+Andherdeo Rd,3,0,3,0,0,0,VERIFIED
+Shukla Nagar,3,0,3,0,0,0,VERIFIED
+Beohar Raghuvir Sinha Rd,3,1,2,0,0,0,VERIFIED
+Katanga,3,0,3,0,0,0,VERIFIED
+New Anand Nagar Rd,3,1,2,0,0,0,VERIFIED
+SBI Chowk,3,1,2,0,0,0,VERIFIED
+Life Medicity Hospital,3,0,2,0,0,0,VERIFIED
+Samiksha Town Phase 3rd,3,1,2,0,0,0,VERIFIED
+Ranital,3,0,2,1,0,0,VERIFIED
+MLB Rd,3,0,3,0,0,0,VERIFIED
+Azad Chowk,3,0,2,1,0,0,VERIFIED
+Napier Town Rd,3,0,3,0,0,0,VERIFIED
+Dwarka Nagar Ward,3,0,3,0,0,0,VERIFIED
+Damoh Naka,3,1,2,0,0,0,VERIFIED
+Nagpur Road,3,0,2,0,1,0,VERIFIED
+Karan Singh Market,3,0,2,0,1,0,VERIFIED
+Deendayal Chowk,3,0,3,0,0,0,VERIFIED
+Shiv Nagar Main Rd,3,0,2,0,0,0,VERIFIED
+Katanga Rd,3,0,3,0,0,0,VERIFIED
+near Prem Mandir Road,3,0,2,1,0,0,VERIFIED
+Jai Prakash Nagar Rd,3,0,3,0,0,0,VERIFIED
+Medical College Colony,3,0,2,0,0,0,VERIFIED
+Denning Rd,3,0,3,0,0,0,VERIFIED
+Badi Omti,3,0,3,0,0,0,VERIFIED
+Saif Nagar,3,0,2,0,0,0,VERIFIED
+Gurudev Colony,3,1,1,0,0,0,VERIFIED
+Shastri Nagar Rd,3,0,2,0,0,0,VERIFIED
+Patel Market,3,0,1,0,1,0,VERIFIED
+Tulsi Nagar,3,0,3,0,0,0,VERIFIED
+Suvidha market,3,0,2,1,0,0,VERIFIED
+Neta Colony,3,0,3,0,0,0,VERIFIED
+Samdariya Green City,3,0,3,0,0,0,VERIFIED
+Police Lines,3,1,1,0,1,0,VERIFIED
+raza chowk,3,0,3,0,0,0,VERIFIED
+Patel Nagar,3,0,1,2,0,0,VERIFIED
+Nakshatra Nagar,3,0,3,0,0,0,VERIFIED
+Sadashiv Nagar Devtal Rd,3,0,2,0,1,0,VERIFIED
+Jai Nagar,3,0,2,0,1,0,VERIFIED
+Chandmari,3,0,1,0,1,0,VERIFIED
+Vivekanand Ward,3,0,3,0,0,0,VERIFIED
+WARD,2,2,0,0,0,0,VERIFIED
+Delite Taklies Rd,2,0,2,0,0,0,VERIFIED
+Dr Radha Krishnan Chowk,2,0,2,0,0,0,VERIFIED
+Panch Sheel Nagar,2,0,2,0,0,0,VERIFIED
+Narmada Nagar,2,0,2,0,0,0,VERIFIED
+APR Colony,2,1,1,0,0,0,VERIFIED
+Thana,2,0,2,0,0,0,VERIFIED
+Belbaag-Gurandi Rd,2,0,2,0,0,0,VERIFIED
+Shaktinagar,2,0,2,0,0,0,VERIFIED
+Ekta vihar,2,0,0,0,1,0,VERIFIED
+Gurandi Market Rd,2,0,2,0,0,0,VERIFIED
+Hanuman Chowk,2,0,2,0,0,0,VERIFIED
+Jain Mandir Rd,2,0,1,0,0,0,VERIFIED
+Ukhari Chowk,2,1,0,1,0,0,VERIFIED
+Shri Nath Ki Talleyya Rd,2,0,2,0,0,0,VERIFIED
+Agrawal Colony,2,0,2,0,0,0,VERIFIED
+Sagra,2,0,1,0,0,0,VERIFIED
+in front of Anand Nagar,2,0,2,0,0,0,VERIFIED
+Krishi Upaj Mandi Market,2,0,1,0,1,0,VERIFIED
+Bajnamath Chowk,2,0,2,0,0,0,VERIFIED
+Ghora Nakkas Road,2,0,2,0,0,0,VERIFIED
+Kotwali Bazar,2,0,2,0,0,0,VERIFIED
+Chandan Colony,2,1,0,0,1,0,VERIFIED
+Rd,2,0,1,0,0,0,VERIFIED
+Crossing,2,0,2,0,0,0,VERIFIED
+Gopalpuram,2,0,2,0,0,0,VERIFIED
+Anuradha Colony,2,0,1,0,0,0,VERIFIED
+Barela,2,0,1,0,1,0,VERIFIED
+Ganga Maiya Rd,2,0,2,0,0,0,VERIFIED
+Amanpur,2,0,2,0,0,0,VERIFIED
+Ukhri Road,2,1,1,0,0,0,VERIFIED
+Madar Tekri Rd,2,0,2,0,0,0,VERIFIED
+Chandrika Vihar,2,0,2,0,0,0,VERIFIED
+Gaumata Chowk,2,0,2,0,0,0,VERIFIED
+Nehru Railway Colony,2,0,1,1,0,0,VERIFIED
+JDA Market,2,0,2,0,0,0,VERIFIED
+791A Subhadra Kumari Chauhan Ward,2,0,1,0,0,0,VERIFIED
+near Ukhari Chowk,2,0,2,0,0,0,VERIFIED
+Janki Nagar Rd,2,0,2,0,0,0,VERIFIED
+Indira Market,2,0,1,0,1,0,VERIFIED
+Punjab Bank Colony,2,0,2,0,0,0,VERIFIED
+SUBHDRA KUMARI WARD,2,2,0,0,0,0,VERIFIED
+Shatabdipuram,2,0,2,0,0,0,VERIFIED
+Ratan Nagar Rd,2,0,2,0,0,0,VERIFIED
+Jabalpur raddi chowki,2,0,1,1,0,0,VERIFIED
+ukhari road,2,0,1,0,1,0,VERIFIED
+Market,2,0,2,0,0,0,VERIFIED
+Madan Mahal Station Road,2,0,2,0,0,0,VERIFIED
+Pushpak Nagar,2,0,1,0,0,0,VERIFIED
+Nav Adarsh Colony,2,0,1,0,0,0,VERIFIED
+Nagrath Chowk,2,0,2,0,0,0,VERIFIED
+Sudhama Nagar,2,0,2,0,0,0,VERIFIED
+Gurudwara Road,2,0,2,0,0,0,VERIFIED
+Jagriti Nagar,2,0,1,0,0,0,VERIFIED
+mool chand yadav market,2,0,2,0,0,0,VERIFIED
+Shankar Nagar,2,0,2,0,0,0,VERIFIED
+Ganji Nagar,2,0,2,0,0,0,VERIFIED
+B.M Colony,2,0,2,0,0,0,VERIFIED
+Bazar,2,0,2,0,0,0,VERIFIED
+Rewa Colony,2,1,1,0,0,0,VERIFIED
+MPEB Road,2,0,1,1,0,0,VERIFIED
+Nagpur road,2,0,2,0,0,0,VERIFIED
+nagar,2,0,2,0,0,0,VERIFIED
+Clock Tower Rd,2,1,1,0,0,0,VERIFIED
+Ekta chowk,2,0,0,0,0,0,VERIFIED
+Lamheta Rd,2,0,1,0,0,0,VERIFIED
+Ram Nagar Road,2,0,0,1,0,0,VERIFIED
+Datt Township Main Rd,2,0,1,0,0,0,VERIFIED
+P N B Colony,2,0,1,0,1,0,VERIFIED
+Khatik Mohalla,2,0,2,0,0,0,VERIFIED
+Jhamandas Chowk,2,0,2,0,0,0,VERIFIED
+Gandhi Vyayam Shala,2,0,1,0,1,0,VERIFIED
+Devtaal Rd,2,0,2,0,0,0,VERIFIED
+MPSEB Colony,2,0,2,0,0,0,VERIFIED
+Nagar Nigam Market,2,0,1,0,1,0,VERIFIED
+Damoh Rd,2,0,2,0,0,0,VERIFIED
+Shatabdipuram Phase 2,2,0,1,1,0,0,VERIFIED
+New Adarsh Colony,2,0,2,0,0,0,VERIFIED
+Sanskar Colony,2,0,2,0,0,0,VERIFIED
+Kasoudhan Nagar,2,1,1,0,0,0,VERIFIED
+Dwarka Nagar,2,0,2,0,0,0,VERIFIED
+Ambedkar Colony,2,0,1,1,0,0,VERIFIED
+opposite Bhavartal Garden Road,2,0,1,1,0,0,VERIFIED
+Deen Dayal Chowk,2,1,1,0,0,0,VERIFIED
+Gokulpur,2,1,0,1,0,0,VERIFIED
+Civil Lines Rd,2,0,2,0,0,0,VERIFIED
+Karamchand Chowk,2,1,1,0,0,0,VERIFIED
+Gurunanak School Rd,2,1,1,0,0,0,VERIFIED
+MCI Colony,2,0,1,0,0,0,VERIFIED
+Cherital Road,2,0,2,0,0,0,VERIFIED
+Gupta Colony,2,1,0,0,0,0,VERIFIED
+Thana Road,2,0,2,0,0,0,VERIFIED
+VFJ Rd,2,0,2,0,0,0,VERIFIED
+Professor Colony,2,0,2,0,0,0,VERIFIED
+Sai Colony Rd,2,0,2,0,0,0,VERIFIED
+Dixit Colony,2,0,2,0,0,0,VERIFIED
+Gwarighat Station Rd,2,0,2,0,0,0,VERIFIED
+Khajanchi Nagar,2,0,1,0,1,0,VERIFIED
+Garha Road,2,0,1,0,0,0,VERIFIED
+Sbi Colony,2,0,2,0,0,0,VERIFIED
+Gupteshwar,2,0,1,1,0,0,VERIFIED
+Prem Mandir Chowk,2,0,1,0,0,0,VERIFIED
+Ranjhi Road,2,0,2,0,0,0,VERIFIED
+Manegaon,2,0,2,0,0,0,VERIFIED
+Mother Teresa Nagar,2,0,1,1,0,0,VERIFIED
+Vegetable Market,2,0,0,2,0,0,VERIFIED
+D.N. Jain Market,2,0,2,0,0,0,VERIFIED
+Kotwali bazar,2,0,1,0,1,0,VERIFIED
+Bhedaghat Main Rd,2,0,2,0,0,0,VERIFIED
+Sai Colony,2,0,2,0,0,0,VERIFIED
+Madan Mahal Station Main Road Near Gate No.4 Chowk,1,0,1,0,0,0,VERIFIED
+Gau Mata chowk,1,0,1,0,0,0,VERIFIED
+stadium ROAD,1,0,1,0,0,0,VERIFIED
+Marble city hospital,1,0,1,0,0,0,VERIFIED
+Opposite Big Bazar South Avenue Mall,1,1,0,0,0,0,VERIFIED
+Police Station,1,0,1,0,0,0,VERIFIED
+Ground Floor Kachna Krishna South Civil,1,0,1,0,0,0,VERIFIED
+opposite Prem nagar,1,0,1,0,0,0,VERIFIED
+Medical Road,1,0,1,0,0,0,VERIFIED
+Ganga nagar main road,1,0,1,0,0,0,VERIFIED
+HIG 5 SHIV NAGAR,1,0,1,0,0,0,VERIFIED
+Telephone Exchange Road,1,0,1,0,0,0,VERIFIED
+Gupteshwer Ward,1,0,1,0,0,0,VERIFIED
+near Ghamapur Square,1,0,1,0,0,0,VERIFIED
+near City Hospital,1,1,0,0,0,0,VERIFIED
+near Ekta Chowk,1,0,1,0,0,0,VERIFIED
+Sanjivani Superspeciality Clinic Gomata Chowk,1,0,1,0,0,0,VERIFIED
+Aaga Chowk near baldeobagh (2.75 km) 482001,1,1,0,0,0,0,VERIFIED
+Grenade Chowk Gwarighat Road,1,0,1,0,0,0,VERIFIED
+1240 adarsh nagar bhargav compound Narmada Road jabalpur Near Sindhi ki chakki 50 meters ahead and,1,0,1,0,0,0,VERIFIED
+4791,1,0,1,0,0,0,VERIFIED
+Dr. Chauhan Heera Market,1,0,1,0,0,0,VERIFIED
+Scheme No. 5 Ahinsa Chowk,1,1,0,0,0,0,VERIFIED
+Sai Mandir Rd,1,0,1,0,0,0,VERIFIED
+near Narmada Road,1,0,1,0,0,0,VERIFIED
+Infinity heart institute 2nd/3rd Floor,1,0,1,0,0,0,VERIFIED
+Home Science College Road Shastri Bridge Chowk,1,0,1,0,0,0,VERIFIED
+Russel chowk to Maharishi College(4th Bridge Road,1,0,1,0,0,0,VERIFIED
+Fusakele Stone & Laser Center MLB School road,1,0,1,0,0,0,VERIFIED
+Sharda Colony,1,0,1,0,0,0,VERIFIED
+Housing Board Market,1,0,1,0,0,0,VERIFIED
+Gopal Vihar Market,1,0,1,0,0,0,VERIFIED
+Bagwan Nagar,1,0,1,0,0,0,VERIFIED
+supteshwar ganesh mandir Ekta vihar,1,0,1,0,0,0,VERIFIED
+Dhanvantri Nagar Road,1,0,1,0,0,0,VERIFIED
+आमनपुर,1,0,1,0,0,0,VERIFIED
+Geetanjali school road,1,0,1,0,0,0,VERIFIED
+Jawaharganj Rd,1,0,1,0,0,0,VERIFIED
+MLB school road,1,0,1,0,0,0,VERIFIED
+Ashish Hospital Home Science College Road Near Madan Mahal,1,0,1,0,0,0,VERIFIED
+near Ranital Chowk,1,0,1,0,0,0,VERIFIED
+Golebazar,1,1,0,0,0,0,VERIFIED
+Manas bhavan road,1,1,0,0,0,0,VERIFIED
+near Hotel Satya Ashoka Road,1,1,0,0,0,0,VERIFIED
+Jabalpur (M.P.),1,0,1,0,0,0,VERIFIED
+opp. Virmani Petrol Pump Pasi Chowk,1,0,1,0,0,0,VERIFIED
+Ashirwad Garden Opp Bhanwartal Krishna Hotel Road,1,0,1,0,0,0,VERIFIED
+Bhawartal Garden,1,0,1,0,0,0,VERIFIED
+Sneh Nagar main Rd,1,0,1,0,0,0,VERIFIED
+Kachnarcity,1,0,1,0,0,0,VERIFIED
+Care Multi Speciality Hospital Ukhari Chowk,1,0,0,0,0,0,VERIFIED
+Ahmad Nagar Katra Jabalpur Ahmad Nagar Katra,1,0,1,0,0,0,VERIFIED
+3rd floor,1,0,1,0,0,0,VERIFIED
+Kusha Bhau Thakre Nagar,1,0,1,0,0,0,VERIFIED
+SHATABDIPURAM,1,0,0,0,0,0,VERIFIED
+Dindori,1,0,1,0,0,0,VERIFIED
+Opp. SBI Marhatal,1,0,1,0,0,0,VERIFIED
+Adhartal Rd,1,0,1,0,0,0,VERIFIED
+near Standard Maruti Showroom,1,1,0,0,0,0,VERIFIED
+Khushi Plaza krishna hotel Rd,1,0,1,0,0,0,VERIFIED
+Dixit Pride Tayebali Chowk,1,0,1,0,0,0,VERIFIED
+LIC colony,1,0,1,0,0,0,VERIFIED
+Home Science College Road,1,0,1,0,0,0,VERIFIED
+Jeevan Lal Yadav Market,1,0,1,0,0,0,VERIFIED
+Chhoti Omti Rd,1,0,1,0,0,0,VERIFIED
+Bhantaliya Road,1,0,1,0,0,0,VERIFIED
+Adhartal dhani ki kutiya Infront of symbosis higher secondary school,1,1,0,0,0,0,VERIFIED
+thana,1,0,1,0,0,0,VERIFIED
+High Court Road,1,1,0,0,0,0,VERIFIED
+Indraprastha Colony,1,0,1,0,0,0,VERIFIED
+Rani Durgawati Chowk,1,0,1,0,0,0,VERIFIED
+Shop No 683 Transport Nagar Road Gali No 17,1,0,1,0,0,0,VERIFIED
+Advance Endoscopic and Surgical Center Deendayal Chowk,1,1,0,0,0,0,VERIFIED
+Deendayal bus stand road,1,0,1,0,0,0,VERIFIED
+Kirnapur Balaghat,1,0,1,0,0,0,VERIFIED
+near Damoh Nacha Chowk,1,0,1,0,0,0,VERIFIED
+Damoh - Jabalpur Rd,1,1,0,0,0,0,VERIFIED
+Inside City Hospital,1,0,1,0,0,0,VERIFIED
+Between SBI Chowk,1,0,0,0,1,0,VERIFIED
+Deen Dayal chowk,1,0,1,0,0,0,VERIFIED
+Pearl Clinic 1355 Kachnar City Road,1,0,1,0,0,0,VERIFIED
+Kachnar City Road,1,0,1,0,0,0,VERIFIED
+ITI Road,1,0,1,0,0,0,VERIFIED
+Jaiswal medical Stores new shashtri Nagar,1,0,0,0,1,0,VERIFIED
+Yadav Market,1,0,1,0,0,0,VERIFIED
+Dr. Colony,1,0,0,0,0,0,VERIFIED
+541 Shastri Nagar colony ( Medical Near radha krishna mandir,1,0,1,0,0,0,VERIFIED
+Radhe shyam Clinic... new shastri nagar.. bajnamath,1,0,1,0,0,0,VERIFIED
+Medical Road Medical,1,0,1,0,0,0,VERIFIED
+Kothwali Bazar,1,0,1,0,0,0,VERIFIED
+hanumantal,1,0,1,0,0,0,VERIFIED
+Kotwali,1,0,1,0,0,0,VERIFIED
+Shop No 01 Badhai Mohalla Road Badhai Mohalla,1,0,1,0,0,0,VERIFIED
+Darhai Rd,1,0,1,0,0,0,VERIFIED
+Sarafa Road,1,1,0,0,0,0,VERIFIED
+5WQQ+P55 Dr Firdous Ansari clinic,1,0,1,0,0,0,VERIFIED
+Gangasagar Road,1,0,1,0,0,0,VERIFIED
+WRIGHT TOWN,1,1,0,0,0,0,VERIFIED
+36 kingsway ashok marg sadar bazar,1,0,1,0,0,0,VERIFIED
+Shitla Mai Ward,1,0,1,0,0,0,VERIFIED
+Shitalamai Ward West,1,1,0,0,0,0,VERIFIED
+Siddha Baba Ward,1,0,1,0,0,0,VERIFIED
+Rampur Crossing Grenade Chowk,1,0,1,0,0,0,VERIFIED
+Bhandari Hospital Road,1,0,1,0,0,0,VERIFIED
+GRC Chowk,1,0,1,0,0,0,VERIFIED
+Pushpa Kunj Colony,1,0,1,0,0,0,VERIFIED
+Howbag Railway Colony,1,1,0,0,0,0,VERIFIED
+Gurdwara,1,0,1,0,0,0,VERIFIED
+Main Road Sanjeevani Nagar,1,1,0,0,0,0,VERIFIED
+Main Road Sanjivni Nagar,1,1,0,0,0,0,VERIFIED
+Shahi Naka Road In front of Shanti Masale,1,0,1,0,0,0,VERIFIED
+Junior HIG 20. Near Dhanwantri Nagar Chowk Pulse medical care Dhanvantari Nagar,1,0,1,0,0,0,VERIFIED
+Panchsheel colony,1,1,0,0,0,0,VERIFIED
+Yadav Colony Elza School Road,1,0,1,0,0,0,VERIFIED
+main road sanjivni nagar,1,0,1,0,0,0,VERIFIED
+Banglow no. 1 rahul vihar tilhari,1,0,1,0,0,0,VERIFIED
+MANGLESHWARI PINK CITY,1,1,0,0,0,0,VERIFIED
+Sant Jalaram Nagar,1,0,1,0,0,0,VERIFIED
+near Hotel Viajn Mahal,1,0,1,0,0,0,VERIFIED
+Pink city,1,0,1,0,0,0,VERIFIED
+near Gau Mata Chowk,1,0,1,0,0,0,VERIFIED
+Sabji Market,1,0,1,0,0,0,VERIFIED
+Kisani mohalla,1,0,1,0,0,0,VERIFIED
+33W3+QP4,1,0,1,0,0,0,VERIFIED
+32WX+6C6,1,0,0,0,0,0,VERIFIED
+NH12A,1,1,0,0,0,0,VERIFIED
+Panagar Police Station Ke Pass Panagar,1,0,1,0,0,0,VERIFIED
+4RJ3+5MV,1,0,1,0,0,0,VERIFIED
+labor chowk jabalpur,1,1,0,0,0,0,VERIFIED
+Amanpur Road,1,1,0,0,0,0,VERIFIED
+Azad Ward,1,0,1,0,0,0,VERIFIED
+Momin Eidgah Market,1,0,1,0,0,0,VERIFIED
+Bahorabagh Chowk,1,0,1,0,0,0,VERIFIED
+786 Abdul Hammed Chowk,1,1,0,0,0,0,VERIFIED
+AHameed Ward,1,1,0,0,0,0,VERIFIED
+GOPAL VIHAR NEAR MAHESH BHAVAN,1,0,1,0,0,0,VERIFIED
+South Civil Lines besides Sindhi dharamshala,1,0,1,0,0,0,VERIFIED
+Deen dayal Chowk,1,0,1,0,0,0,VERIFIED
+Pounikar Clinic Krishi Upaj Mandi Market,1,0,1,0,0,0,VERIFIED
+New Bhedaghat Road,1,0,1,0,0,0,VERIFIED
+64 Saket nagar,1,0,1,0,0,0,VERIFIED
+wright town,1,0,1,0,0,0,VERIFIED
+2226 Wright town,1,0,0,0,0,0,VERIFIED
+MLB School Road,1,0,1,0,0,0,VERIFIED
+Canara Bank Near Gurudwara Mastana Chowk,1,0,0,0,0,0,VERIFIED
+Shiv Naga JDA Market,1,0,0,0,0,0,VERIFIED
+SHIV NAGAR,1,0,1,0,0,0,VERIFIED
+Gulmohar garden street,1,0,0,0,0,0,VERIFIED
+Gwarighat Road,1,0,1,0,0,0,VERIFIED
+Gopal Bag Rd,1,0,0,0,0,0,VERIFIED
+Dhanvantari Nagar square,1,0,0,0,0,0,VERIFIED
+H.no. 541 shastri nagar colony,1,0,1,0,0,0,VERIFIED
+Madan Mahal To Ganga Sagar Road & Shukla Nagar Road,1,0,1,0,0,0,VERIFIED
+Chandrika Vihar Apartment,1,0,1,0,0,0,VERIFIED
+Gol Bazar,1,0,1,0,0,0,VERIFIED
+Spectrum Health Care HDFC Bank Road,1,0,1,0,0,0,VERIFIED
+Nagpur Road Infront of Hotel Gulzar,1,0,1,0,0,0,VERIFIED
+Mahi Medical Main road,1,0,1,0,0,0,VERIFIED
+New Bahorabag Market,1,0,1,0,0,0,VERIFIED
+in front of City hospital,1,0,1,0,0,0,VERIFIED
+near Aditya Hospital,1,0,1,0,0,0,VERIFIED
+Punjabi Hindi association chowk,1,0,1,0,0,0,VERIFIED
+Model Road,1,0,1,0,0,0,VERIFIED
+Model road,1,0,1,0,0,0,VERIFIED
+Ekta Vihar,1,0,1,0,0,0,VERIFIED
+Kamla Nehru Nagar Post Office Building P & T Gate,1,0,1,0,0,0,VERIFIED
+33 Adarsh Market main road ranjhi,1,0,1,0,0,0,VERIFIED
+Azad nagar,1,0,1,0,0,0,VERIFIED
+SH 22,1,1,0,0,0,0,VERIFIED
+sanjeevni nagar,1,0,1,0,0,0,VERIFIED
+Medical market,1,0,1,0,0,0,VERIFIED
+GOLE BAZAR RANITAL,1,1,0,0,0,0,VERIFIED
+Naiper Town,1,0,1,0,0,0,VERIFIED
+Dr Barat road,1,0,1,0,0,0,VERIFIED
+Raiway Police Line Rd,1,1,0,0,0,0,VERIFIED
+Rail Sourabh Colony,1,0,1,0,0,0,VERIFIED
+New colony,1,0,1,0,0,0,VERIFIED
+Hanumantal Rd,1,0,1,0,0,0,VERIFIED
+Hanuman Tal,1,0,1,0,0,0,VERIFIED
+Sharda chouk,1,0,1,0,0,0,VERIFIED
+Mohanlal Hargovindas Hospital road,1,0,1,0,0,0,VERIFIED
+Phatak Road,1,0,1,0,0,0,VERIFIED
+230 adishankaracharya chowk,1,0,1,0,0,0,VERIFIED
+Gopal vihar market,1,0,1,0,0,0,VERIFIED
+Goonj Healthcare infront of LIC Nagpur road,1,0,1,0,0,0,VERIFIED
+beside Housing Board Office,1,0,1,0,0,0,VERIFIED
+main road ashanagar,1,0,1,0,0,0,VERIFIED
+I Road,1,1,0,0,0,0,VERIFIED
+Shop No 690622 Main Road Ranjhi,1,0,1,0,0,0,VERIFIED
+Anjani Vihar Colony,1,0,1,0,0,0,VERIFIED
+Sukh Nagar Complex,1,0,1,0,0,0,VERIFIED
+behind Housing Board Office,1,0,1,0,0,0,VERIFIED
+OLD JAGDAMBA COLONY,1,0,1,0,0,0,VERIFIED
+Prem Nagar,1,0,1,0,0,0,VERIFIED
+Hotel Satya Ashoka Rd,1,0,1,0,0,0,VERIFIED
+2nd & 3rd Floor,1,0,1,0,0,0,VERIFIED
+Vikas Bazar Civic Centre,1,0,1,0,0,0,VERIFIED
+Anand Colony Road,1,0,1,0,0,0,VERIFIED
+in front of Bhawartal Garden,1,0,1,0,0,0,VERIFIED
+Gorakhpur Bazar main road,1,0,1,0,0,0,VERIFIED
+Masana Chowk,1,0,0,1,0,0,VERIFIED
+Wright town,1,0,1,0,0,0,VERIFIED
+Near Gaumata Chowk,1,0,1,0,0,0,VERIFIED
+Gomata chowk,1,0,1,0,0,0,VERIFIED
+Subhash Market,1,0,1,0,0,0,VERIFIED
+Truecare-sanjivan hospital road,1,0,0,0,0,0,VERIFIED
+Vikash Nagar,1,0,1,0,0,0,VERIFIED
+Krishi Upaj Mandi Market Vikash Nagar,1,0,1,0,0,0,VERIFIED
+ICICI-Atm,1,0,1,0,0,0,VERIFIED
+Khamaria,1,0,0,1,0,0,VERIFIED
+Mujabar Mohalla,1,0,1,0,0,0,VERIFIED
+South miloniganj,1,0,0,0,0,0,VERIFIED
+F-4 Doctor's Colony,1,0,1,0,0,0,VERIFIED
+in front of Hotel Satya Ashoka Road,1,1,0,0,0,0,VERIFIED
+ukhari chowk,1,0,1,0,0,0,VERIFIED
+GOPAL VIHAR MARKET CHERITAL,1,0,1,0,0,0,VERIFIED
+Wright Town Opp. Abhinandan Restaurant,1,0,1,0,0,0,VERIFIED
+near Taiyyab Ali Petrol Pump,1,0,1,0,0,0,VERIFIED
+Daya Nagar,1,0,1,0,0,0,VERIFIED
+Kachhiyana Rd,1,0,1,0,0,0,VERIFIED
+ITI ROAD,1,0,1,0,0,0,VERIFIED
+Below Housing Board Office,1,0,1,0,0,0,VERIFIED
+Mohanlal Hargovindas Hospital Road,1,0,1,0,0,0,VERIFIED
+Bhardwaj Snhclinics,1,0,1,0,0,0,VERIFIED
+Atul Vihar Apartment,1,0,1,0,0,0,VERIFIED
+Near Standard Maruti Showroom,1,0,1,0,0,0,VERIFIED
+GOLBAZAR ROAD,1,0,1,0,0,0,VERIFIED
+Chouhan Ward,1,1,0,0,0,0,VERIFIED
+Napier Town Road,1,0,1,0,0,0,VERIFIED
+Below Modern X-ray Ghamapur Chowk,1,0,1,0,0,0,VERIFIED
+1836 Talib Chowk,1,0,1,0,0,0,VERIFIED
+Gopal vihar shopping complex,1,0,1,0,0,0,VERIFIED
+166 House number 1320 K 1st floor clinic Ganga Nagar Μ.Ρ Madhya Pradesh IN,1,0,0,0,0,0,VERIFIED
+Front Of Krishi Upaj Mandi Gate No.2 Deendayal chowk,1,0,1,0,0,0,VERIFIED
+Lalpur Road,1,0,1,0,0,0,VERIFIED
+Kuldeep Bhardwaj,1,0,1,0,0,0,VERIFIED
+Kuldeep Bhardwaj Snhclinics,1,0,1,0,0,0,VERIFIED
+chowk Purva road,1,0,1,0,0,0,VERIFIED
+Patrakar Colony,1,0,1,0,0,0,VERIFIED
+church school road,1,0,1,0,0,0,VERIFIED
+Punjabi Hindu Association Chowk,1,0,1,0,0,0,VERIFIED
+Marble City Hospital,1,0,1,0,0,0,VERIFIED
+Bhole Kuti Road,1,0,1,0,0,0,VERIFIED
+Katni Road,1,0,1,0,0,0,VERIFIED
+Ahinsha Chowk Janki Nagar Road,1,0,0,0,0,0,VERIFIED
+Rani Durgawati Rd,1,0,0,0,0,0,VERIFIED
+Neemkheda,1,0,0,0,0,0,VERIFIED
+Shakti Nagar Chowk,1,0,1,0,0,0,VERIFIED
+Nagrath chowk,1,0,1,0,0,0,VERIFIED
+Ladli Laxmi Path,1,0,1,0,0,0,VERIFIED
+Super market Opposite indian coffee house of super market Malviya chowk,1,0,1,0,0,0,VERIFIED
+Mohanlal Hargobindas Hospital Road,1,0,1,0,0,0,VERIFIED
+Satya Ashoka Hotel Road,1,0,1,0,0,0,VERIFIED
+near karamchand chowk,1,0,1,0,0,0,VERIFIED
+FIRST FLOOR CORPORATION MARKET,1,0,1,0,0,0,VERIFIED
+254 Main Road Andherdeo,1,0,1,0,0,0,VERIFIED
+Beside Of Naveen Marketing,1,0,1,0,0,0,VERIFIED
+Madan Mahal Link Road,1,0,1,0,0,0,VERIFIED
+1st,1,0,1,0,0,0,VERIFIED
+Market Gaumata Chowk,1,0,1,0,0,0,VERIFIED
+Front of St Norbert school Chowk Bhawartal garden,1,0,1,0,0,0,VERIFIED
+Near City Hospital,1,0,1,0,0,0,VERIFIED
+Jabalpur Hospital & Research Centre,1,1,0,0,0,0,VERIFIED
+Dr. Barat road,1,0,1,0,0,0,VERIFIED
+Golbazar Road,1,0,1,0,0,0,VERIFIED
+Dr. BARAT ROAD,1,0,1,0,0,0,VERIFIED
+narmada road opposite gorakhpur police station beside bank of india narmada road branch,1,0,1,0,0,0,VERIFIED
+Beside Vimala Medicose Suvidha Market,1,0,1,0,0,0,VERIFIED
+D Colony Plot No -1 Landmark,1,0,1,0,0,0,VERIFIED
+3rd Building,1,0,1,0,0,0,VERIFIED
+Papa ji dream Market,1,0,1,0,0,0,VERIFIED
+in front of Heera Pahalwan Building,1,0,1,0,0,0,VERIFIED
+Chamber no 4,1,0,1,0,0,0,VERIFIED
+Shop Number 17 Adhartal Chaupati at Adhartal nagar nigam market,1,0,1,0,0,0,VERIFIED
+Cheri Taal garden Road,1,0,1,0,0,0,VERIFIED
+Shivnagar,1,0,1,0,0,0,VERIFIED
+MR-4 Road,1,0,1,0,0,0,VERIFIED
+Unnamed Road Ranjhi,1,0,1,0,0,0,VERIFIED
+sanjay nagar near ravan park ranjhi,1,0,1,0,0,0,VERIFIED
+shop no 144 main road chungi chowk,1,0,1,0,0,0,VERIFIED
+jda market,1,0,1,0,0,0,VERIFIED
+MASTANA CHOWK,1,0,1,0,0,0,VERIFIED
+Opp. Ranjhi police station Ranjhi bazaar,1,0,1,0,0,0,VERIFIED
+Devtal road,1,0,1,0,0,0,VERIFIED
+Sanjeevani nagar,1,0,1,0,0,0,VERIFIED
+near Sanjeevani Nagar,1,0,1,0,0,0,VERIFIED
+VARDAAN' D-26 HIG,1,0,1,0,0,0,VERIFIED
+National Colony,1,1,0,0,0,0,VERIFIED
+Durga Colony,1,0,1,0,0,0,VERIFIED
+Katangi Road Near St. Aloysius School,1,0,1,0,0,0,VERIFIED
+Deendayal chowk,1,0,1,0,0,0,VERIFIED
+Infront of Sardar Angency,1,0,1,0,0,0,VERIFIED
+life Medical Stores Market,1,1,0,0,0,0,VERIFIED
+in front of Parijat Building,1,0,1,0,0,0,VERIFIED
+Geet Vihar Colony,1,0,1,0,0,0,VERIFIED
+Katanga tiraha gwarighat road,1,0,1,0,0,0,VERIFIED
+Housing Board Colony,1,0,1,0,0,0,VERIFIED
+Agrawal dental clinic State bank atm k baju se Dr. Satyendra mishra k samne Ramnagar road Azad chowk,1,0,1,0,0,0,VERIFIED
+MP housing board office,1,0,1,0,0,0,VERIFIED
+RD Medical centre,1,0,1,0,0,0,VERIFIED
+Ambika hardware,1,0,1,0,0,0,VERIFIED
+In front of LordGanj Police station,1,0,1,0,0,0,VERIFIED
+ghadi chowk,1,0,1,0,0,0,VERIFIED
+Kendriya Vidyalaya Rd,1,0,1,0,0,0,VERIFIED
+Ukhri Tiraha State Bank Colony,1,0,1,0,0,0,VERIFIED
+Dutt township Gate,1,0,1,0,0,0,VERIFIED
+Mandala Rd,1,0,1,0,0,0,VERIFIED
+Agarwal Market,1,0,1,0,0,0,VERIFIED
+rajul city,1,0,1,0,0,0,VERIFIED
+Sadar Cant,1,0,0,1,0,0,VERIFIED
+Kisani mohalla main road,1,0,1,0,0,0,VERIFIED
+Bazar Mohalla,1,0,1,0,0,0,VERIFIED
+Bhatauli,1,0,1,0,0,0,VERIFIED
+National Highway-7 Road,1,0,1,0,0,0,VERIFIED
+Station road,1,0,1,0,0,0,VERIFIED
+Chandrika Apartments Gupteshwar road,1,0,1,0,0,0,VERIFIED
+Rampur Chhapar Rd,1,0,1,0,0,0,VERIFIED
+Sudha Vihar,1,0,1,0,0,0,VERIFIED
+Napier Town Naveen vidya bhawan road,1,1,0,0,0,0,VERIFIED
+Napier Town landmark:,1,1,0,0,0,0,VERIFIED
+Badi Ukhri Chowk,1,1,0,0,0,0,VERIFIED
+Omega Children's Hospital Golbazar,1,0,1,0,0,0,VERIFIED
+Kachnar Road,1,0,1,0,0,0,VERIFIED
+Anjuman Market,1,0,1,0,0,0,VERIFIED
+3rd Floor,1,1,0,0,0,0,VERIFIED
+behind NEELKANTH HOTEL UKHARI CHOWK,1,0,0,0,0,0,VERIFIED
+CBI Office Road,1,1,0,0,0,0,VERIFIED
+vidhya bhawan road,1,0,1,0,0,0,VERIFIED
+near Super Market Coffee House,1,0,1,0,0,0,VERIFIED
+253 Sanjeevani Nagar,1,0,1,0,0,0,VERIFIED
+near Deendayal Chowk,1,0,1,0,0,0,VERIFIED
+Priyadarshni Colony,1,1,0,0,0,0,VERIFIED
+Dhani ki kutiya road,1,0,1,0,0,0,VERIFIED
+opposite of mastana timber nursing nagar,1,0,1,0,0,0,VERIFIED
+Amrit clinics Ukhari tiraha,1,0,1,0,0,0,VERIFIED
+Deen Dhayal,1,0,1,0,0,0,VERIFIED
+Shop No 64 Cantonment Main Road,1,0,1,0,0,0,VERIFIED
+J K medical,1,0,1,0,0,0,VERIFIED
+Sadar Bazaar,1,0,1,0,0,0,VERIFIED
+main road cheritaal infront of sumdariya complex,1,1,0,0,0,0,VERIFIED
+RAJEEV GANDHI WARD (WARD 31,1,1,0,0,0,0,VERIFIED
+Transformer 360 Gym Shatabdipuram,1,0,0,0,0,0,VERIFIED
+Nav adarsh colony,1,0,0,0,0,0,VERIFIED
+JDA APARTMENT Shatabdipuram,1,0,0,0,0,0,VERIFIED
+Lala chowk,1,0,0,0,0,0,VERIFIED
+kuchaini parishar,1,0,0,0,0,0,VERIFIED
+Pragya Colony,1,0,0,0,0,0,VERIFIED
+near Lordganj,1,0,0,0,0,0,VERIFIED
+Raza chowk milk skem road,1,0,0,0,0,0,VERIFIED
+677 Durga colony near Royal school Sanjeevani nagar,1,0,0,0,0,0,VERIFIED
+D D complex shop number A1/12 Deendayal chouk,1,0,0,0,0,0,VERIFIED
+Lal Bahadur Shastri ward,1,0,0,0,0,0,VERIFIED
+Pushpnagar,1,0,1,0,0,0,VERIFIED
+Sainik society Road,1,0,0,0,0,0,VERIFIED
+Sharda chawk,1,0,0,0,0,0,VERIFIED
+Veer savarkar ward,1,0,0,0,0,0,VERIFIED
+Gupteshwar Suvidha market,1,0,0,0,0,0,VERIFIED
+Sanjeevani nagar garha,1,0,0,0,0,0,VERIFIED
+Rani Durgavati School Road,1,0,0,0,0,0,VERIFIED
+State Bank Main Road,1,0,0,0,0,0,VERIFIED
+Ganga Nagar Garha,1,0,1,0,0,0,VERIFIED
+agrawal colony,1,0,0,0,0,0,VERIFIED
+Sanjeevni Nagar road Mukherji hospital ke pass subh chasma house ke baju se sanjeevni nagar road,1,0,1,0,0,0,VERIFIED
+behind manya marriage garden in sides,1,0,0,0,0,0,VERIFIED
+NH-7 Main Road,1,0,0,0,0,0,VERIFIED
+J.P. Nagar,1,0,0,0,0,0,VERIFIED
+mahakoshal nagar,1,0,1,0,0,0,VERIFIED
+Champa Nagar,1,0,0,0,0,0,VERIFIED
+Naz medical store in front of aadarsh nursing home Noori nagar raddi chowki petrol pump,1,0,0,0,0,0,VERIFIED
+beside city hospital,1,0,0,0,0,0,VERIFIED
+MATHURA VIHAR,1,0,1,0,0,0,VERIFIED
+Infront of Golden Town,1,0,0,0,0,0,VERIFIED
+Nakshatra nagar star city,1,0,0,0,0,0,VERIFIED
+State Bank colony,1,0,0,0,0,0,VERIFIED
+Narsingh nagar,1,0,0,0,0,0,VERIFIED
+Whikal Road,1,0,0,0,0,0,VERIFIED
+Bada Patthar Area,1,0,1,0,0,0,VERIFIED
+near Ratan Nagar,1,0,0,0,0,0,VERIFIED
+Gopal Vihar damohnaka,1,0,1,0,0,0,VERIFIED
+COD Colony,1,0,0,0,0,0,VERIFIED
+1687 JHHMANDAS CHOWK ROAD,1,0,1,0,0,0,VERIFIED
+1gwarighat road,1,0,0,0,0,0,VERIFIED
+Ambika Vihar,1,0,0,0,0,0,VERIFIED
+dawa bazar,1,0,0,0,0,0,VERIFIED
+Ambika vihar,1,0,0,0,0,0,VERIFIED
+shastri vihar,1,0,1,0,0,0,VERIFIED
+Kajarwara Rd,1,0,0,0,0,0,VERIFIED
+Gaumata chowk,1,0,1,0,0,0,VERIFIED
+Beside Dr. Mehta Ranital Chowk,1,0,1,0,0,0,VERIFIED
+BHAWANI PRASAD WARD 34,1,0,1,0,0,0,VERIFIED
+Katwali Ward,1,0,1,0,0,0,VERIFIED
+1 Medicine Complex Model Road,1,0,1,0,0,0,VERIFIED
+1229 sbi colony,1,0,0,0,1,0,VERIFIED
+Nav Adarsh colony,1,0,1,0,0,0,VERIFIED
+South Milone Ganj,1,0,1,0,0,0,VERIFIED
+baldev bag ukhri road subh tent ke baju me,1,0,1,0,0,0,VERIFIED
+CHERIRAL,1,0,1,0,0,0,VERIFIED
+Madhuvan Colony,1,0,1,0,0,0,VERIFIED
+Sarafa bazar,1,0,1,0,0,0,VERIFIED
+gudhai road,1,0,1,0,0,0,VERIFIED
+CHERITAL ROAD,1,0,1,0,0,0,VERIFIED
+Sarafa Bazar,1,0,1,0,0,0,VERIFIED
+Civil Centre,1,0,1,0,0,0,VERIFIED
+Dawa Bazar,1,0,1,0,0,0,VERIFIED
+Hathital Colony Rd,1,0,1,0,0,0,VERIFIED
+Gow Mata Chowk,1,0,1,0,0,0,VERIFIED
+Galgala Market,1,0,1,0,0,0,VERIFIED
+Shop no. 46 mukadamganj main road jabalpur,1,0,1,0,0,0,VERIFIED
+Ward No 12,1,0,1,0,0,0,VERIFIED
+Nursing Building Ranital chowk,1,0,1,0,0,0,VERIFIED
+Cheevani Phamad Nagar,1,0,1,0,0,0,VERIFIED
+1st floor jagat mall gorakhpur jabalpur,1,0,1,0,0,0,VERIFIED
+Shiv Shakti Tiraha Rd,1,0,1,0,0,0,VERIFIED
+behind Nagar Nigam,1,0,1,0,0,0,VERIFIED
+Sai mandir Road,1,0,1,0,0,0,VERIFIED
+Punit Nagar,1,0,1,0,0,0,VERIFIED
+Jai Prakash Nagar Mishpa,1,0,1,0,0,0,VERIFIED
+h. n 76 indra nagar suhagi new ward 77 adhartal Jabalpur,1,0,1,0,0,0,VERIFIED
+Jhamandash Chowk,1,0,1,0,0,0,VERIFIED
+Jhamandas chowk,1,0,1,0,0,0,VERIFIED
+Talib Chowk,1,0,1,0,0,0,VERIFIED
+shivnagar Jain Mandir Road,1,0,1,0,0,0,VERIFIED
+Jagrati Nagar,1,0,1,0,0,0,VERIFIED
+Miloni Ganj Road,1,0,1,0,0,0,VERIFIED
+Sabji mandi road,1,0,1,0,0,0,VERIFIED
+Satabdipuram Phase 1,1,0,1,0,0,0,VERIFIED
+near CBI COLONY,1,0,1,0,0,0,VERIFIED
+Ekta chowk vijay nagar Kashi tower 2nd floor,1,0,1,0,0,0,VERIFIED
+Bilpura,1,0,1,0,0,0,VERIFIED
+Sarrapeople ranjhi,1,0,1,0,0,0,VERIFIED
+Ganesh Nagar,1,0,1,0,0,0,VERIFIED
+Rishi Nagar,1,0,0,0,1,0,VERIFIED
+Main Rd Garha,1,0,1,0,0,0,VERIFIED
+near Janta Hotel,1,0,1,0,0,0,VERIFIED
+6M5V+H7,1,0,1,0,0,0,VERIFIED
+Dayoday,1,0,1,0,0,0,VERIFIED
+Tilwara,1,0,1,0,0,0,VERIFIED
+Geet Vihar Phase II,1,0,1,0,0,0,VERIFIED
+Geet Vihar,1,0,1,0,0,0,VERIFIED
+काक्वा रोड near police line अमेठी उत्तर paraदेश,1,0,1,0,0,0,VERIFIED
+Maitri Nagar,1,0,1,0,0,0,VERIFIED
+Shaktinagar Chowk,1,0,1,0,0,0,VERIFIED
+Heera Market,1,0,1,0,0,0,VERIFIED
+Wings Convent School Road Near Bhatija Petrol pump Maitri Nagar,1,0,1,0,0,0,VERIFIED
+Nav Nivesh Ganga Nagar Colony,1,0,1,0,0,0,VERIFIED
+Savida Market,1,0,1,0,0,0,VERIFIED
+Indira Gandhi303dening road,1,0,0,0,1,0,VERIFIED
+kotwali bazar DARUSSALAM,1,0,1,0,0,0,VERIFIED
+near Kamaniya Gate Road,1,0,1,0,0,0,VERIFIED
+Saraswati Vihar,1,0,1,0,0,0,VERIFIED
+near bus stand,1,0,1,0,0,0,VERIFIED
+Maharajpur Rd,1,0,1,0,0,0,VERIFIED
+Shastri Vihar,1,0,1,0,0,0,VERIFIED
+Purana Kanchanpur Rd,1,0,1,0,0,0,VERIFIED
+Richhai Industrial Area,1,0,1,0,0,0,VERIFIED
+5XH2+5Q2 Ghamapur Rd,1,0,1,0,0,0,VERIFIED
+Bel Bhag Road Ghamapur Chowk,1,0,1,0,0,0,VERIFIED
+Bajariya Rd,1,0,0,0,1,0,VERIFIED
+43QM+283,1,0,1,0,0,0,VERIFIED
+Ward No 67,1,0,0,0,1,0,VERIFIED
+APR COLONY,1,0,1,0,0,0,VERIFIED
+8XJ6+WMQ,1,0,1,0,0,0,VERIFIED
+1166 Wright town opposite abhinandan hotel,1,0,1,0,0,0,VERIFIED
+opp. jabalpur hospital,1,0,1,0,0,0,VERIFIED
+Hitkarni Sabha Market,1,0,1,0,0,0,VERIFIED
+Rajiv Gandhi Chowk,1,0,1,0,0,0,VERIFIED
+Nav Aadarsh Colony,1,0,1,0,0,0,VERIFIED
+kuber city,1,0,1,0,0,0,VERIFIED
+coal mines office road,1,0,1,0,0,0,VERIFIED
+main road Cherital,1,0,1,0,0,0,VERIFIED
+Foota Tal,1,0,1,0,0,0,VERIFIED
+market,1,0,0,0,1,0,VERIFIED
+Hitkarni Market,1,0,0,0,1,0,VERIFIED
+Narsingh Ward,1,0,1,0,0,0,VERIFIED
+Anand Cenema Road,1,0,0,0,1,0,VERIFIED
+Kripal chowk,1,0,1,0,0,0,VERIFIED
+Singhai Market,1,0,1,0,0,0,VERIFIED
+Nehru Ward,1,0,1,0,0,0,VERIFIED
+naya bazar,1,0,0,0,1,0,VERIFIED
+Usrethe market,1,0,0,0,1,0,VERIFIED
+near Kachnar City Road,1,0,1,0,0,0,VERIFIED
+FRONT OF KHANDELWAL MARKETING (FURNITURE,1,0,0,0,1,0,VERIFIED
+Gandhi nagar,1,0,1,0,0,0,VERIFIED
+Pandey homoeopathic clinic Adhartal main road symbiosis school and kajal bhaaya hospital ke,1,0,1,0,0,0,VERIFIED
+chungi chowki,1,0,1,0,0,0,VERIFIED
+Krishna Colony,1,0,1,0,0,0,VERIFIED
+Datt Enclave,1,0,1,0,0,0,VERIFIED
+Sheetla Mai Ward,1,0,0,0,1,0,VERIFIED
+Sidam Baba Road,1,0,1,0,0,0,VERIFIED
+New Colony Market,1,0,1,0,0,0,VERIFIED
+shivdham colony vehical mod,1,0,1,0,0,0,VERIFIED
+Near Kamania Gate,1,0,1,0,0,0,VERIFIED
+12,1,0,1,0,0,0,VERIFIED
+Shop No.27 JDA Market,1,0,1,0,0,0,VERIFIED
+Krishi Upaj Mandi Market SBI Chowk,1,0,0,0,1,0,VERIFIED
+Shanti nagar,1,0,0,0,0,0,VERIFIED
+Shop No 690914 Main Road Ranjhi,1,0,0,0,1,0,VERIFIED
+2428 azad nagar,1,0,0,0,1,0,VERIFIED
+near labour chowk,1,0,1,0,0,0,VERIFIED
+Kucheni Market,1,0,0,0,1,0,VERIFIED
+67 Agrawal Colony Jain Mandir Ke Paas,1,0,1,0,0,0,VERIFIED
+Nakshtra Nagar Rd,1,0,1,0,0,0,VERIFIED
+Karmet Main Market,1,0,1,0,0,0,VERIFIED
+9876,1,0,1,0,0,0,VERIFIED
+Aastha Nagar,1,0,1,0,0,0,VERIFIED
+66 Gwarighat Main Market,1,0,0,1,0,0,VERIFIED
+near Tata Motors,1,0,1,0,0,0,VERIFIED
+near jain dharm shala,1,0,1,0,0,0,VERIFIED
+23 Gorabazar,1,0,0,0,1,0,VERIFIED
+High Court Society Rd,1,0,1,0,0,0,VERIFIED
+100/4amar Complex Ranital Amar Complex Ranital,1,0,1,0,0,0,VERIFIED
+Belbaag Rd,1,0,1,0,0,0,VERIFIED
+Near masjid Gora Bazar,1,0,1,0,0,0,VERIFIED
+Saraswati Colony,1,0,1,0,0,0,VERIFIED
+ambedkar chowk,1,0,1,0,0,0,VERIFIED
+Station Chouraha,1,0,0,0,1,0,VERIFIED
+Vinod Gontia Rd,1,0,1,0,0,0,VERIFIED
+Jabalpur Incubation Center 3rd Floor. M.P. Audyogik Kendra Vikas Nigam (J Ltd,1,0,1,0,0,0,VERIFIED
+Niwas Road,1,0,1,0,0,0,VERIFIED
+near Raddi Chowki,1,0,1,0,0,0,VERIFIED
+hotel Gaumata chowk,1,0,1,0,0,0,VERIFIED
+Anwar Ganj,1,0,1,0,0,0,VERIFIED
+Sastri Bridge Square,1,0,1,0,0,0,VERIFIED
+Prem mandir chowk,1,0,0,0,0,0,VERIFIED
+AAGA CHOWK,1,0,1,0,0,0,VERIFIED
+Vijay Chowk,1,0,1,0,0,0,VERIFIED
+ahinsa chowk,1,0,1,0,0,0,VERIFIED
+Ramashram Vihar,1,0,1,0,0,0,VERIFIED
+opposite Anand Nagar,1,0,1,0,0,0,VERIFIED
+806 Golbazar,1,0,1,0,0,0,VERIFIED
+Shatabdhipuram,1,0,1,0,0,0,VERIFIED
+Sanjeevni cancer clinic Gaumata chowk,1,0,1,0,0,0,VERIFIED
+near gyan ganga academy,1,0,1,0,0,0,VERIFIED
+SBI chowk,1,0,1,0,0,0,VERIFIED
+Maheshpur,1,1,0,0,0,0,VERIFIED
+Old Napier Town,1,1,0,0,0,0,VERIFIED
+near Bhanwar Taal Garden,1,0,1,0,0,0,VERIFIED
+Sector 2 Vijay Nagar,1,0,1,0,0,0,VERIFIED
+Katangi Road,1,1,0,0,0,0,VERIFIED
+Deendaya chowk,1,0,0,0,1,0,VERIFIED
+Visharjan kund Road,1,1,0,0,0,0,VERIFIED
+Shop no. 105-109 ranital chowk kastoorba gandhi ward ranital,1,0,1,0,0,0,VERIFIED
+Platform no. 1,1,0,1,0,0,0,VERIFIED
+Regional Centre ECHS Jabalpur Army PIN-901124,1,0,1,0,0,0,VERIFIED
+Norris Road,1,0,1,0,0,0,VERIFIED
+Gorabazar,1,0,1,0,0,0,VERIFIED
+Near Tayebali Chowk,1,0,0,0,0,0,VERIFIED
+Jonesganj,1,0,1,0,0,0,VERIFIED
+IBM colony,1,0,1,0,0,0,VERIFIED
+Thana Bazar,1,0,1,0,0,0,VERIFIED
+Rani Durgavati University Campus,1,1,0,0,0,0,VERIFIED
+Maharajpur,1,0,1,0,0,0,VERIFIED
+Baznamath Chowk,1,1,0,0,0,0,VERIFIED
+Chargawan,1,1,0,0,0,0,VERIFIED
+Highcourt road,1,0,0,1,0,0,VERIFIED
+ROAD,1,0,1,0,0,0,VERIFIED
+21. Hitkarini Market,1,0,0,1,0,0,VERIFIED
+NH7 Road,1,0,1,0,0,0,VERIFIED
+Gaytri Mandir Rd,1,1,0,0,0,0,VERIFIED
+Shobhapur,1,1,0,0,0,0,VERIFIED
+93/11,1,0,1,0,0,0,VERIFIED
+ghamapur chowk,1,1,0,0,0,0,VERIFIED
+beside Police Chowki,1,0,1,0,0,0,VERIFIED
+besides victoria hospital,1,0,1,0,0,0,VERIFIED
+in front of Bhavartal Garden Road,1,0,1,0,0,0,VERIFIED
+Shastri Bridge Square,1,0,1,0,0,0,VERIFIED
+behind Housing Board Market,1,0,1,0,0,0,VERIFIED
+Sharda Market,1,0,1,0,0,0,VERIFIED
+near Raza Colony,1,0,1,0,0,0,VERIFIED
+5WXX+84H Aadarsh colony,1,1,0,0,0,0,VERIFIED
+Bahara Bagh,1,0,1,0,0,0,VERIFIED
+tiwari market,1,0,1,0,0,0,VERIFIED
+100 Katra Yashwant Nagar,1,0,1,0,0,0,VERIFIED
+near Anand Nagar,1,0,1,0,0,0,VERIFIED
+Dimpi Rd,1,0,1,0,0,0,VERIFIED
+3 Raddi Choki,1,0,0,0,0,0,VERIFIED
+Aadi shakti market,1,0,0,1,0,0,VERIFIED
+001 Shatabdipuram Colony,1,0,1,0,0,0,VERIFIED
+near SBI Chowk,1,0,1,0,0,0,VERIFIED
+Akash Vihar,1,0,1,0,0,0,VERIFIED
+Nai Basti M.G. Road,1,0,1,0,0,0,VERIFIED
+Chandra Shekhar Ward,1,0,1,0,0,0,VERIFIED
+Sidh Nagar,1,0,1,0,0,0,VERIFIED
+Saista Market,1,0,1,0,0,0,VERIFIED
+Manegaon Road,1,0,1,0,0,0,VERIFIED
+Chandra Shakhar Word,1,0,1,0,0,0,VERIFIED
+Gulawa Chowk,1,0,1,0,0,0,VERIFIED
+Near Garha Bazar,1,0,1,0,0,0,VERIFIED
+Mahaveer Nagar rex gym,1,0,1,0,0,0,VERIFIED
+Kosta Mohalla,1,0,1,0,0,0,VERIFIED
+Mujahed Mohalla,1,0,1,0,0,0,VERIFIED
+Garha chhoti bazariya,1,0,0,0,1,0,VERIFIED
+Rani Durgawati School road,1,0,1,0,0,0,VERIFIED
+Muzahid Mohalla,1,0,1,0,0,0,VERIFIED
+near Police Chowki,1,0,1,0,0,0,VERIFIED
+gada road,1,0,1,0,0,0,VERIFIED
+Garha Purwa Dhanwatri Nagar Road Jabalpur,1,0,1,0,0,0,VERIFIED
+Garha Purva,1,0,1,0,0,0,VERIFIED
+Lalanda Vihar Tilwara Road,1,0,1,0,0,0,VERIFIED
+Purwa Rd,1,0,0,0,0,0,VERIFIED
+Pawan Bhumi Chowk,1,0,1,0,0,0,VERIFIED
+Medical Shop No1,1,0,1,0,0,0,VERIFIED
+badanpur sarayu bazar,1,0,1,0,0,0,VERIFIED
+Bajrang nagar mather tersa,1,0,1,0,0,0,VERIFIED
+Karmeta Road,1,0,1,0,0,0,VERIFIED
+Near MR-4 Road,1,0,1,0,0,0,VERIFIED
+Shankar Colony,1,0,1,0,0,0,VERIFIED
+Patan Road,1,0,1,0,0,0,VERIFIED
+New Ramnagar Rd,1,0,1,0,0,0,VERIFIED
+Shivaji nagar road,1,0,0,0,1,0,VERIFIED
+Katngi Road,1,0,1,0,0,0,VERIFIED
+Infront Of Bajrang Colony,1,0,1,0,0,0,VERIFIED
+Indra Market Shop,1,0,0,0,1,0,VERIFIED
+1,1,0,1,0,0,0,VERIFIED
+Saket Dham Rd,1,0,1,0,0,0,VERIFIED
+Gwarighat Main Road,1,0,0,0,0,0,VERIFIED
+S Square Market,1,0,1,0,0,0,VERIFIED
+Durga Nagar,1,0,1,0,0,0,VERIFIED
+Vijayanagar,1,0,1,0,0,0,VERIFIED
+Dwarka Market,1,0,1,0,0,0,VERIFIED
+Bharat Colony,1,0,0,1,0,0,VERIFIED
+GANGA SAGAR EKTA CHOWK MALI MIHALLA,1,0,1,0,0,0,VERIFIED
+जिला जबलपुर (म.प्र.),1,0,1,0,0,0,VERIFIED
+Nursing Ward Madan Mahal,1,0,1,0,0,0,VERIFIED
+Sudama Nagar,1,0,1,0,0,0,VERIFIED
+Kailashpuri Rd,1,0,1,0,0,0,VERIFIED
+Kachghar samdariya calony grp ground road,1,0,1,0,0,0,VERIFIED
+Kali Mai Mandir Road,1,0,1,0,0,0,VERIFIED
+17 A Street No.5 Azad Chowk,1,0,0,1,0,0,VERIFIED
+Pandey Chowk,1,0,1,0,0,0,VERIFIED
+Ward No 77,1,0,1,0,0,0,VERIFIED
+Lamheta Ghat Road,1,0,1,0,0,0,VERIFIED
+Tamarhai Chowk,1,0,1,0,0,0,VERIFIED
+Hotel Utsav Parisar Dayanand Saraswati Ward,1,0,0,0,1,0,VERIFIED
+Sangam Colony,1,0,1,0,0,0,VERIFIED
+Leonard school,1,0,1,0,0,0,VERIFIED
+Sanjay Ghandhi Ward,1,0,1,0,0,0,VERIFIED
+KANCHGHAR CHOWK,1,0,0,1,0,0,VERIFIED
+54678,1,0,1,0,0,0,VERIFIED
+Shanti Nagar Gate,1,0,0,0,1,0,VERIFIED
+Front of Pratap Market,1,0,1,0,0,0,VERIFIED
+Ahmad Nagar,1,0,1,0,0,0,VERIFIED
+shashtri nagar,1,0,1,0,0,0,VERIFIED
+Shri Prasth Colony,1,0,1,0,0,0,VERIFIED
+Dhanwantri Nagar chowk Purva road,1,0,0,0,1,0,VERIFIED
+Phootatal Road,1,0,1,0,0,0,VERIFIED
+Shop No 01 Footatal Ground Nagar Nigam Market,1,0,1,0,0,0,VERIFIED
+Thakkar Gram,1,0,1,0,0,0,VERIFIED
+5WMW+849 Bahara Bag Market,1,0,1,0,0,0,VERIFIED
+Panch Kuiya Road,1,0,1,0,0,0,VERIFIED
+near NAGAR NIGAM ZONE OFFICE BHANTALIYA,1,0,0,1,0,0,VERIFIED
+Sanjeevni Nagar Royal school,1,0,0,1,0,0,VERIFIED
+4XG9+445 Shiver Garden,1,0,1,0,0,0,VERIFIED
+33W2+8VM,1,0,1,0,0,0,VERIFIED
+32WX+8V8,1,0,0,0,1,0,VERIFIED
+32WX+CQG,1,0,1,0,0,0,VERIFIED
+lobo solitaire Rajul township Phase,1,0,1,0,0,0,VERIFIED
+Pragati Nagar,1,0,1,0,0,0,VERIFIED
+Lig 1127Paraswara colony,1,0,1,0,0,0,VERIFIED
+4RJ2+7W5,1,0,1,0,0,0,VERIFIED
+Amkhera Road,1,0,1,0,0,0,VERIFIED
+जबलपुर,1,0,1,0,0,0,VERIFIED
+GOHALPUR TO RADDI CHOWKI,1,0,1,0,0,0,VERIFIED
+JP Nagar,1,0,1,0,0,0,VERIFIED
+Sahu colony,1,0,0,0,0,0,VERIFIED
+Nar Singh ward Amanpur,1,0,1,0,0,0,VERIFIED
+Shastri Bridge Road,1,0,1,0,0,0,VERIFIED
+Ward,1,1,0,0,0,0,VERIFIED
+Jawaharlal Nehru Krishi Vishwa Vidyalaya Campus,1,0,1,0,0,0,VERIFIED
+H.No. 197 RANITAL TELIGRAF GATE NO.1 ROAD Yadav Colony,1,0,1,0,0,0,VERIFIED
+new raza chowk,1,0,1,0,0,0,VERIFIED
+Adarsh Colony,1,0,1,0,0,0,VERIFIED
+near Kishan Hotel,1,0,0,0,1,0,VERIFIED
+554 vijay nagar ghadi,1,0,0,1,0,0,VERIFIED
+above Dr Asha Namdeo Hospital Sanjeevani Nagar,1,0,1,0,0,0,VERIFIED
+Maa Narmada Nagar,1,0,1,0,0,0,VERIFIED
+Tilwara Bridge,1,0,1,0,0,0,VERIFIED
+5W8Q+7QH Tayyabli Chowk,1,0,1,0,0,0,VERIFIED
+Shri Ram College Rd,1,0,1,0,0,0,VERIFIED
+Rajeev Gandhi Nagar,1,0,1,0,0,0,VERIFIED
+Ahinsa chowk,1,0,1,0,0,0,VERIFIED
+Katangi Road Amrit Teerth Jain Temple Karmeta Jabalpur Madhya Pradesh Katangi Road Amrit Teerth Jain Temple,1,0,0,0,0,0,VERIFIED
+opp. ukhari road,1,0,0,0,1,0,VERIFIED
+mahila market,1,0,1,0,0,0,VERIFIED
+Khari Ghat Rd,1,0,1,0,0,0,VERIFIED
+Atul vihar2,1,0,1,0,0,0,VERIFIED
+ekta chowk,1,0,1,0,0,0,VERIFIED
+Garha Road Ranital,1,0,1,0,0,0,VERIFIED
+Circular Area,1,0,0,0,0,0,VERIFIED
+shuvidha market,1,0,0,1,0,0,VERIFIED
+Sushi Mandi,1,0,1,0,0,0,VERIFIED
+zakir hussain ward,1,0,1,0,0,0,VERIFIED
+Civil ward,1,0,0,0,0,0,VERIFIED
+chandra shekhar aazad garden,1,0,0,1,0,0,VERIFIED
+infront of vrindavan garden,1,0,1,0,0,0,VERIFIED
+Shop no 9 shukla Nagar shukla Market,1,0,1,0,0,0,VERIFIED
+opposite Shri Krishna Parisar Colony,1,0,1,0,0,0,VERIFIED
+Tiwari market in front of bank of maharashtra sanjeevni nagar,1,0,1,0,0,0,VERIFIED
+sharda chowk,1,0,1,0,0,0,VERIFIED
+Colony,1,0,1,0,0,0,VERIFIED
+N.H -7 Road,1,0,1,0,0,0,VERIFIED
+Jagdamba Nagar Nagar,1,0,1,0,0,0,VERIFIED
+Aziz gung pasiyana app. public school revendra naat tagor ward no.50,1,0,1,0,0,0,VERIFIED
+Nayak nursing home road,1,0,1,0,0,0,VERIFIED
+Rishi Niketan,1,0,1,0,0,0,VERIFIED
+Opp. Dr Pawan Sthapak Hospital Golbazar,1,0,0,0,0,0,VERIFIED
+MLB School Road Near Prem Mandir,1,0,0,0,0,0,VERIFIED
+near Ranital chowk,1,0,0,0,0,0,VERIFIED
+Al rajjak market,1,0,0,1,0,0,VERIFIED
+MLB school to Little Kingdom Road,1,0,0,1,0,0,VERIFIED
+Haji Market,1,0,0,1,0,0,VERIFIED
+Ruseel Crossing Silver oaks Camps,1,1,0,0,0,0,VERIFIED
+Shop No 11 Gulati Complex Hotal Below Navneeta Restrunt Rasal Chouk To Fourth Bridge Road (In Front Of Anand Talkis which Is Closed Napier Town JABALPUR (. MP) PIN 482001,1,0,1,0,0,0,VERIFIED
+Right Town,1,0,0,0,0,0,VERIFIED
+KRISHNA HEALTH CARE 2362 TIWARI SADAN FAST FLORE,1,0,0,1,0,0,VERIFIED
+Virumal Chowk,1,0,0,1,0,0,VERIFIED
+Bas Stand Road,1,0,1,0,0,0,VERIFIED
+Sharada Talkies Main Road,1,0,1,0,0,0,VERIFIED
+Adhartal Road,1,0,0,0,0,0,VERIFIED
+Ansari Market,1,0,1,0,0,0,VERIFIED
+Makka Nagar,1,0,0,0,0,0,VERIFIED
+Raddi Chowki Chowk,1,0,0,0,0,0,VERIFIED
+Raza Chowk,1,0,0,1,0,0,VERIFIED
+mainroad,1,0,0,1,0,0,VERIFIED
+near vedika medical shop ekta chowk,1,0,0,1,0,0,VERIFIED
+Ekta Chowk se zero degree service road,1,0,0,1,0,0,VERIFIED
+No 275/16 Janki Nagar,1,0,0,1,0,0,VERIFIED
+75/C RAMESHWARAM COLONY,1,0,0,1,0,0,VERIFIED
+Ranjhi Basti,1,0,0,0,0,0,VERIFIED
+Bahorbagh market,1,0,0,1,0,0,VERIFIED
+Westland Khamaria,1,0,1,0,0,0,VERIFIED
+J.D.A. Market,1,0,0,1,0,0,VERIFIED
+Ground Floor Bargi Road,1,0,0,1,0,0,VERIFIED
+Shahi Naka Road,1,0,0,1,0,0,VERIFIED
+garha purwa road,1,0,0,0,0,0,VERIFIED
+Garha Purva Road,1,0,0,1,0,0,VERIFIED
+Inn Silver OAK Compound Russel Chowk,1,0,0,0,0,0,VERIFIED
+Iti Katangi Rd,1,0,0,1,0,0,VERIFIED
+Dindayal Chowk,1,0,0,1,0,0,VERIFIED
+Kalanji Road,1,0,0,0,1,0,VERIFIED
+Station Road (Pl. 1,1,0,1,0,0,0,VERIFIED
+Karmchand Chowk,1,0,0,0,0,0,VERIFIED
+ayurvedic college road,1,0,0,1,0,0,VERIFIED
+Lalpur Rd,1,0,1,0,0,0,VERIFIED
+Bansal Market,1,0,0,0,0,0,VERIFIED
+Chhapar,1,0,0,1,0,0,VERIFIED
+ग्वारीघाट,1,0,1,0,0,0,VERIFIED
+Gora Bazar,1,0,0,1,0,0,VERIFIED
+Sahu Mohalla,1,0,0,1,0,0,VERIFIED
+Bansal Market Chhoti Line,1,0,0,1,0,0,VERIFIED
+Noori Nagar,1,0,0,1,0,0,VERIFIED
+Katra road,1,0,0,1,0,0,VERIFIED
+Dhanwantri Nagar Chowk,1,0,0,0,0,0,VERIFIED
+SAINI MARKET,1,0,0,0,0,0,VERIFIED
+below Housing board office,1,0,0,1,0,0,VERIFIED
+Badi Kher Mai Rd,1,0,0,1,0,0,VERIFIED
+5XG3+XF5,1,0,0,0,1,0,VERIFIED
+Kachpura Maal Godam,1,0,0,1,0,0,VERIFIED
+33W3+HXX,1,0,0,0,1,0,VERIFIED
+opposite Anjuman School,1,0,1,0,0,0,VERIFIED
+Opp Water Tank,1,0,0,1,0,0,VERIFIED
+हाइवे मैन रोड,1,0,1,0,0,0,VERIFIED
+Talib shah chowk,1,0,0,0,0,0,VERIFIED
+H NO - 2361,1,0,0,1,0,0,VERIFIED
+Ukhri Chowk,1,0,0,1,0,0,VERIFIED
+Near of rameshwam pailesh dr.lal path dhani ki kutiya road,1,0,0,1,0,0,VERIFIED
+Gopal Arcade Gopal Vihar Mahesh Bhavan Rd Cherital,1,0,0,1,0,0,VERIFIED
+near chungi chowki,1,0,1,0,0,0,VERIFIED
+Nagrpur Road,1,0,0,1,0,0,VERIFIED
+House number 674 ward number 59,1,0,0,1,0,0,VERIFIED
+कोतवाली बाज़ार,1,0,0,1,0,0,VERIFIED
+Shop No 5 DN Jain Market,1,0,0,0,1,0,VERIFIED
+Kachhiyana Road,1,0,0,0,1,0,VERIFIED
+hospital road,1,0,0,0,1,0,VERIFIED
+opposite Victoria Hospital Road,1,0,0,0,1,0,VERIFIED
+Shakti Bhawan Marg National Colony,1,0,0,0,1,0,VERIFIED
+Dn Jain Market,1,0,0,0,1,0,VERIFIED
+Sharda Apartment,1,0,0,0,1,0,VERIFIED
+Kings Way Garden,1,0,0,0,1,0,VERIFIED
+Mata Ward,1,0,0,0,1,0,VERIFIED
+SHOP NO 5-7 KRATI COMPLEX MEDICINE COMPLEX NEAR SHASTRI BRIDGE MEDICINE COMPLEX,1,0,0,0,1,0,VERIFIED
+new market,1,0,1,0,0,0,VERIFIED
+Azad nagar mohariya,1,0,0,0,1,0,VERIFIED
+Dr Bhatnagar wali gali,1,0,1,0,0,0,VERIFIED
+1637 Mastana Chowk Rd Bengali Colony Bengali Colony Jabalpur Madhya Pradesh 482011,1,0,0,0,1,0,VERIFIED
+Kanchghar,1,0,0,0,1,0,VERIFIED
+near Dr.assem bajpai,1,0,1,0,0,0,VERIFIED
+Medical-Market,1,0,0,0,1,0,VERIFIED
+corporation market,1,0,0,0,1,0,VERIFIED
+Ratan Nagar Road,1,0,0,0,1,0,VERIFIED
+Gorakhpur Main Road,1,0,0,0,1,0,VERIFIED
+Ward L,1,0,0,0,1,0,VERIFIED
+Abdul Hamid Ward Nagar Nigam Market,1,0,0,0,1,0,VERIFIED
+Dawa Bazar Civic Centre,1,0,1,0,0,0,VERIFIED
+Patel market,1,0,0,0,1,0,VERIFIED
+Chhoti Omti,1,0,0,0,1,0,VERIFIED
+Omti Road,1,0,0,0,1,0,VERIFIED
+Civic Center,1,0,1,0,0,0,VERIFIED
+beside Munna Hotel Chowk,1,0,0,0,1,0,VERIFIED
+ANAND TALKIES MARKET,1,0,0,0,1,0,VERIFIED
+389 nehru nagar,1,0,1,0,0,0,VERIFIED
+Shop 16 Nehar Nagar Medical Market,1,0,0,0,1,0,VERIFIED
+NEHRU NAGAR MARKET,1,0,0,0,1,0,VERIFIED
+Chhota Fuhara,1,0,0,0,1,0,VERIFIED
+near,1,0,0,0,1,0,VERIFIED
+Kachhwaha Market,1,0,0,0,1,0,VERIFIED
+Main Road Ranjhi,1,0,0,0,1,0,VERIFIED
+Naudra Bridge,1,0,0,0,1,0,VERIFIED
+Kodwari Gaon,1,0,1,0,0,0,VERIFIED
+Near Kamala bhadar katra mohalla khermai road,1,0,0,0,0,0,VERIFIED
+Near Gour Bridge Mandla road,1,0,1,0,0,0,VERIFIED
+aadi nagar,1,0,0,0,0,0,VERIFIED
+GOHALPUR NAI BASTI NO.1 AMKHERA ROAD,1,0,1,0,0,0,VERIFIED
+Chandra Mohan Nagar,1,0,1,0,0,0,VERIFIED
+ward new colony,1,0,1,0,0,0,VERIFIED
+Richhai,1,0,0,0,0,0,VERIFIED
+Nurshing Ward,1,0,1,0,0,0,VERIFIED
+2nd floor,1,0,1,0,0,0,VERIFIED
+Marhatal Tularam Chowk,1,0,1,0,0,0,VERIFIED
+Mandla Road PO RFRC Village Gaurayaghat,1,0,0,0,0,0,VERIFIED
+sail Vehar colony,1,0,0,0,0,0,VERIFIED
+Madan mahal main road premnagar opposite channa diesel and electrical,1,0,1,0,0,0,VERIFIED
+Sardarji Doodhwala,1,0,1,0,0,0,VERIFIED
+Near Sharda Talkies Main Road,1,0,1,0,0,0,VERIFIED
+Vijaynagar,1,0,1,0,0,0,VERIFIED
+122 Radha Krishna Ward Siddhe Baba Road,1,0,0,1,0,0,VERIFIED
+Ukhri Road Next to MPEB ELECTRIC POWER HOUSE UKHRI MAIN ROAD,1,0,1,0,0,0,VERIFIED
+Mathura Vihar,1,0,1,0,0,0,VERIFIED
+26 27 APR colony krishna city road shriram nagar katangi road,1,0,1,0,0,0,VERIFIED
+Sharda Chowk,1,0,1,0,0,0,VERIFIED
+Vrindavan Nagar St,1,0,1,0,0,0,VERIFIED
+Home science road,1,1,0,0,0,0,VERIFIED
+Cherital road,1,0,1,0,0,0,VERIFIED
+Satyameva Jayate Parisar Ghamapur Road South Civil Line,1,0,1,0,0,0,VERIFIED
+Mathara seth market,1,0,1,0,0,0,VERIFIED
+Gopalpur,1,0,1,0,0,0,VERIFIED
+Ward R N M Jabalpur 1,1,0,1,0,0,0,VERIFIED
+Wardhman Tower,1,0,1,0,0,0,VERIFIED
+Aghori Baba Mandir Rd,1,0,1,0,0,0,VERIFIED
+Beside naveen vidhya bhawan school Napier town,1,0,1,0,0,0,VERIFIED
+Corporation Market,1,0,1,0,0,0,VERIFIED
+Ward 19 1471,1,0,1,0,0,0,VERIFIED
+408garha road,1,0,1,0,0,0,VERIFIED
+katangi bypass,1,0,1,0,0,0,VERIFIED
+SIB CHOWK,1,0,1,0,0,0,VERIFIED
+Shop no.18 Hitkarini market Indian coffee house road,1,0,1,0,0,0,VERIFIED
+Victoria Hospital Rd,1,0,1,0,0,0,VERIFIED
+shop no. 2 hitkarni market,1,0,1,0,0,0,VERIFIED
+Khowa Mandi Rd,1,0,1,0,0,0,VERIFIED
+Ranjhi Bazar Main Road Khanna Chashme Wale Jabalpur Main Road Vishal Garments Ke Samne,1,0,1,0,0,0,VERIFIED
+Ranjhi Bazaar,1,0,1,0,0,0,VERIFIED
+opposite Kasturbanagar Post Office,1,0,1,0,0,0,VERIFIED
+Batalia Road,1,1,0,0,0,0,VERIFIED
+2 Moti Building Sadar Main Road,1,0,1,0,0,0,VERIFIED
+in front of maruti traders,1,0,1,0,0,0,VERIFIED
+shop no 2 prajapati market sule hospital road azad chowk,1,0,1,0,0,0,VERIFIED
+4RG7+5CF,1,0,1,0,0,0,VERIFIED
+City Coffee House,1,0,1,0,0,0,VERIFIED
+in front of Govt Hospital,1,0,1,0,0,0,VERIFIED
+link road,1,0,1,0,0,0,VERIFIED
+near Durga Mandir Road,1,0,1,0,0,0,VERIFIED
+1393 Ganesh Market,1,0,1,0,0,0,VERIFIED
+Near Nachiketa school Kachnar city road,1,0,1,0,0,0,VERIFIED
+vijay nagar,1,0,1,0,0,0,VERIFIED
+Ranjhi Main Road,1,0,1,0,0,0,VERIFIED
+Main Road Ranjhi opposite Ranjhi-Vehicle Factory Chouraha,1,0,1,0,0,0,VERIFIED
+Ravan park road,1,0,1,0,0,0,VERIFIED
+azad nagar,1,0,1,0,0,0,VERIFIED
+Beside Union Bank ATM Sanjeevani Nagar,1,0,1,0,0,0,VERIFIED
+Ganga sagar ekta chowk,1,0,1,0,0,0,VERIFIED
+Saraswati School Road,1,0,1,0,0,0,VERIFIED
+hardol mandir,1,0,1,0,0,0,VERIFIED
+Tilwara road,1,0,1,0,0,0,VERIFIED
+S college road,1,0,1,0,0,0,VERIFIED
+Big bazar,1,0,1,0,0,0,VERIFIED
+gwarighat road,1,0,1,0,0,0,VERIFIED
+Azad chowk,1,0,1,0,0,0,VERIFIED
+Panchsheel Nagar,1,0,1,0,0,0,VERIFIED
+Near Gorakhpur petrol pump opp sardar tent house,1,0,1,0,0,0,VERIFIED
+beside Hardol Mandir,1,0,1,0,0,0,VERIFIED
+Ganesh Chowk,1,0,1,0,0,0,VERIFIED
+south Milloniganj,1,0,1,0,0,0,VERIFIED
+4WW6+2HW Shivaji Chowk,1,0,1,0,0,0,VERIFIED
+near Chowki,1,0,1,0,0,0,VERIFIED
+near Sule Hospital Ahead Sudha Vihar Colony Gate,1,0,1,0,0,0,VERIFIED
+1454/7 Narmada Road,1,0,1,0,0,0,VERIFIED
+Tayebali Petrol Pump Crossing Indian Overseas Bank Road,1,0,1,0,0,0,VERIFIED
+Anand Talkies Road,1,0,1,0,0,0,VERIFIED
+Main Road Jabalpur Road,1,0,1,0,0,0,VERIFIED
+Janki raman mandir ke pass pandey chowk,1,0,1,0,0,0,VERIFIED
+station road,1,0,1,0,0,0,VERIFIED
+gopal sadan road,1,0,1,0,0,0,VERIFIED
+Sauth miloniganj machhali market,1,0,1,0,0,0,VERIFIED
+Beohar-Niwas Palace Rd,1,0,1,0,0,0,VERIFIED
+Namdeo market,1,0,1,0,0,0,VERIFIED
+cherital,1,0,1,0,0,0,VERIFIED
+Sharda Tower,1,0,1,0,0,0,VERIFIED
+South Milloniganj,1,0,0,0,1,0,VERIFIED
+(Landmark - Samdariya Adarsh Cherital Jabalpur ),1,0,1,0,0,0,VERIFIED
+Railway police line Rd,1,0,1,0,0,0,VERIFIED
+Shitla Mai Ward East,1,0,1,0,0,0,VERIFIED
+Gandhiganj,1,0,1,0,0,0,VERIFIED
+near Krishna Colony,1,0,1,0,0,0,VERIFIED
+UF Road,1,0,1,0,0,0,VERIFIED
+Hotel kalchuri road,1,0,1,0,0,0,VERIFIED
+Rajul City Phase 1,1,0,1,0,0,0,VERIFIED
+Jabalpur Rd,1,0,1,0,0,0,VERIFIED
+Annapurna Market,1,0,1,0,0,0,VERIFIED
+saraf market,1,0,1,0,0,0,VERIFIED
+opp. Bngali Club Karamchand Chowk,1,0,1,0,0,0,VERIFIED
+Near Handa Petrol Pump Narmada Road,1,0,1,0,0,0,VERIFIED
+Bhedaghat Chowk,1,0,0,0,1,0,VERIFIED
+Madan Mahal Chowk,1,0,1,0,0,0,VERIFIED
+Samdareeya Complex Opposite parijaat building,1,0,1,0,0,0,VERIFIED
+Gulauwa Chowk,1,0,1,0,0,0,VERIFIED
+Saket nagar mohalla samiti,1,0,1,0,0,0,VERIFIED
+nanak nagar,1,0,1,0,0,0,VERIFIED
+Adi shankracharya chowk,1,0,1,0,0,0,VERIFIED
+CITY P.O,1,0,1,0,0,0,VERIFIED
+Purwa Road,1,0,1,0,0,0,VERIFIED
+sector no. 3,1,0,1,0,0,0,VERIFIED
+Govt school road,1,0,1,0,0,0,VERIFIED
+dhurandhar road,1,0,1,0,0,0,VERIFIED
+Residency Rd,1,0,1,0,0,0,VERIFIED
+Beohari,1,0,1,0,0,0,VERIFIED
+Durga colony,1,0,1,0,0,0,VERIFIED
+Empire Theatre road,1,0,1,0,0,0,VERIFIED
+near gayatri mata mandir,1,0,1,0,0,0,VERIFIED
+Kanchanpur,1,0,1,0,0,0,VERIFIED
+New Ranjhi,1,0,1,0,0,0,VERIFIED
+Ground Floor Main Road,1,0,1,0,0,0,VERIFIED
+Thana Main Road,1,0,1,0,0,0,VERIFIED
+near Labour Chowk,1,0,1,0,0,0,VERIFIED
+near 4th Bridge Road,1,0,1,0,0,0,VERIFIED
+In front of Khalsa school tighra khamaria,1,0,1,0,0,0,VERIFIED
+dmoh naka,1,0,1,0,0,0,VERIFIED
+narmada road infront of south avenue mall,1,0,1,0,0,0,VERIFIED
+Satyanand Vihar,1,0,1,0,0,0,VERIFIED
+Bhukamp Colony Rd,1,0,1,0,0,0,VERIFIED
+karan singh market,1,0,1,0,0,0,VERIFIED
+Dunn Colony,1,0,1,0,0,0,VERIFIED
+SBI Officers Colony 25,1,0,1,0,0,0,VERIFIED
+Vidhya sagar ward,1,0,1,0,0,0,VERIFIED
+mahanadda,1,0,1,0,0,0,VERIFIED
+tiraha katni road,1,0,1,0,0,0,VERIFIED
+C469+P65,1,0,1,0,0,0,VERIFIED
+Jabalpur Byp Rd,1,0,1,0,0,0,VERIFIED
+New Jagdamba Colony Rd,1,0,1,0,0,0,VERIFIED
+Gujarati colony cherital,1,0,1,0,0,0,VERIFIED
+3QQW+H4,1,0,1,0,0,0,VERIFIED
+tondon colony,1,0,1,0,0,0,VERIFIED
+Poorva Road,1,0,1,0,0,0,VERIFIED
+ward no. 74,1,0,1,0,0,0,VERIFIED
+near Aaga Chowk,1,0,0,0,1,0,VERIFIED
+Gulua chowk,1,0,0,0,0,0,VERIFIED
+Jotpur,1,0,1,0,0,0,VERIFIED
+Police Chowki,1,0,1,0,0,0,VERIFIED
+Shikshhak Colony Cherital ward,1,0,1,0,0,0,VERIFIED
+Main Road Panagar,1,0,1,0,0,0,VERIFIED
+5W6G+W2R Skin Hair and Cosmetic Clinic Dr Kuldeep Bhardwaj MD,1,0,1,0,0,0,VERIFIED
+32WX+CQ4,1,0,1,0,0,0,VERIFIED
+Patel nagar road,1,0,0,0,0,0,VERIFIED
+near Ganesh Ganj School,1,0,1,0,0,0,VERIFIED
+Ranjhi Bazar,1,0,0,0,1,0,VERIFIED
+Sidhi Vinayak Market,1,0,1,0,0,0,VERIFIED
+Mohas,1,0,1,0,0,0,VERIFIED
+2WP5+HJ9,1,0,1,0,0,0,VERIFIED
+Bamhani,1,0,1,0,0,0,VERIFIED
